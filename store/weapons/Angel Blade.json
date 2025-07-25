@@ -1,0 +1,42 @@
+{
+  "name": "Angel Blade",
+  "id": "AngelBlade",
+  "rarity": "SR",
+  "max_quality": "UR+5",
+  "quality": "SR",
+  "exclusive_limit": "Main Angel",
+  "exclusive_effect": {
+    "atk_up": {
+      "base": 0.12,
+      "max": 0.45
+    }
+  },
+  "awakening": true,
+  "static_attribute": {
+    "hp_up": {
+      "base": 0.16,
+      "max": 0.60
+    }
+  },
+  "introduction": "It's jungle out there. I will no longer be kind in a world of evil. Against enemies who cannot be influenced by heart, it is a good choice to use violence against violence. Let's go, Angel Blade!",
+  "awakening_skills": [
+    {
+      "level": 30,
+      "skill_name": "Thunderstroke",
+      "description": "Deals an extra 100% DMG to all enemies"
+    },
+    {
+      "level": 60,
+      "skill_name": "Battle Cry",
+      "description": "Make 1 more teammate enter [Excite] state, which deals 40% Crit DMG additionally"
+    },
+    {
+      "level": 90,
+      "skill_name": "Twilight",
+      "description": "ATK+10%, CRIT+10% (Valid ONLY in Arena, Clash of Titans, Glory Arena, Clash of Guilds, Olympus Legend, Gods Twilight, Conqueror of Legends, and friends battle)"
+    }
+  ],
+  "unlock_level": 60,
+  "image": "AngelBlade.webp",
+  "base_price": 4000
+}

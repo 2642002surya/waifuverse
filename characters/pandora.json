@@ -1,0 +1,63 @@
+{
+  "name": "Pandora",
+  "potential": 4075,
+  "main_attribute": "INT",
+  "exclusive_relic": "N/A",
+  "temple_description": "Pandora was a special being made of clay by the Fire God Hephaestus, and was given to humans as punishment for Prometheus' crime of stealing fire. She has a beautiful appearance and extraordinary charm.\nIn addition, she possesses a magic box gifted by Zeus, which will bring endless disasters to mankind if this box was to be opened.",
+  "active_skills": [
+    {
+      "name": "Box of Calamity",
+      "damage": "225% M.DMG",
+      "targets": "3 enemies (front row)",
+      "effect": "50% chance to inflict Weaken, reducing enemy's ATK by 50% for 2 rounds"
+    },
+    {
+      "name": "Malicious Will",
+      "damage": "200% M.DMG",
+      "targets": "3 enemies (front row)",
+      "effect": "DMG is doubled if target is affected by any debuff"
+    }
+  ],
+  "passive_skills": [
+    {
+      "name": "Jupiter's Perfume",
+      "effect": "ATK +4%, ACC +4%"
+    },
+    {
+      "name": "Fire God Robe",
+      "effect": "M.Crit DMG +20%, CRIT +8%"
+    },
+    {
+      "name": "Source of disaster",
+      "effect": "ATK +12%, Leech +6%"
+    }
+  ],
+  "fate": [
+    {
+      "angels": ["Medusa", "Siren"],
+      "fate_name": "Origin of Degeneration",
+      "effect": "HP UP 20%"
+    },
+    {
+      "angels": ["Michael", "Lucifer"],
+      "fate_name": "Wealth Power",
+      "effect": "ATK UP 20%"
+    },
+    {
+      "angels": ["Hera", "Gaia"],
+      "fate_name": "Holy Vengeance",
+      "effect": "ATK UP 15%"
+    }
+  ],
+  "gallery": [
+    "Base Pandora",
+    "Pandora second fashion outfit",
+    "Pandora third fashion outfit",
+    "Pool Party"
+  ],
+  "categories": [
+    "Mage",
+    "Characters",
+    "Red"
+  ]
+}

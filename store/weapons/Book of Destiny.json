@@ -1,0 +1,23 @@
+{
+  "name": "Book of Destiny",
+  "id": "BookOfDestiny",
+  "initial_quality": "R",
+  "max_quality": "SSR+",
+  "unlock_level": 60,
+  "exclusive_class_buff": {
+    "class": "Mage",
+    "effect": "DMG Increase",
+    "value": 2.5,
+    "max_value": 7.5
+  },
+  "awakening": false,
+  "static_attribute": {
+    "target": "Warrior",
+    "effect": "DMG Bonus",
+    "value": 7.5,
+    "max_value": 24.0
+  },
+  "introduction": "No one knows their fate on Book of Destiny.\nYou will know nothing about your life until you open the fate box.",
+  "base_price": 1200,
+  "image": "BookOfDestiny.png"
+}

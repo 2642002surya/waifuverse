@@ -1,0 +1,41 @@
+{
+  "name": "Nyx",
+  "potential": 3225,
+  "main_attribute": "AGI",
+  "exclusive_relic": "",
+  "temple_description": "Nyx was the goddess of night in Greek mythology and one of the original creation gods. Her body was the incarnation of night. She was the daughter of the god of chaos—Chaos—and the sister of the earth goddess Gaia. She lived in a gloomy palace at the entrance of the underworld. Every day, she left the underworld through the west gate, bringing night to the entire world.",
+  "active_skills": [
+    {
+      "name": "Blazing Brilliance",
+      "damage": "N/A",
+      "targets": "N/A",
+      "effect": "Effect details not provided."
+    },
+    {
+      "name": "Arrow of Dusk",
+      "damage": "N/A",
+      "targets": "N/A",
+      "effect": "Effect details not provided."
+    }
+  ],
+  "passive_skills": [
+    {
+      "name": "Triple Angel",
+      "effect": "Effect details not provided."
+    },
+    {
+      "name": "Angel of Darkness",
+      "effect": "Effect details not provided."
+    }
+  ],
+  "exclusive_ur_plus_skills": [],
+  "fate": [],
+  "gallery": [
+    "Base Nyx"
+  ],
+  "categories": [
+    "Characters",
+    "Green",
+    "Archer"
+  ]
+}

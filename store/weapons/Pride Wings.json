@@ -1,0 +1,27 @@
+{
+  "name": "Pride Wings",
+  "id": "PrideWings",
+  "rarity": "SR",
+  "max_quality": "UR+5",
+  "quality": "SR",
+  "exclusive_limit": {
+    "class": "Warrior",
+    "effect": "DMG Increase +8%",
+    "max_effect": "30% when Max"
+  },
+  "awakening": false,
+  "static_attribute": {
+    "effect": "DMG to Archer +16%",
+    "max_effect": "60% when Max"
+  },
+  "introduction": "We can't detect her guilt through her beautiful face from a fallen angel. Until she spread her Pride Wings.",
+  "enhance_awakening": "N/A",
+  "base_price": 4500,
+  "attributes": {
+    "atk": 250,
+    "crit": 20,
+    "speed": 15
+  },
+  "unlock_level": 60,
+  "image": "PrideWings.webp"
+}

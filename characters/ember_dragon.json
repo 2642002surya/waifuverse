@@ -1,0 +1,96 @@
+{
+  "name": "Ember Dragon",
+  "potential": {
+    "SSR+": 5200,
+    "UR": 6000,
+    "UR+": 6333
+  },
+  "main_attribute": "STR",
+  "exclusive_relic": "Ember Spirit",
+  "temple_description": "Ember Dragon is the embodiment of anger and flame. \nHer origins are unknown, yet her power rivals that of the gods. \nShe inhabits a volcanic crater that has remained active since ancient times. \nDue to its inaccessibility, few have witnessed her true form.",
+  "active_skills": [
+    {
+      "name": "Ember Dragon Breath",
+      "rarity": "SSR+/UR",
+      "damage": "350% P.DMG",
+      "target": "3 random enemies",
+      "effect": "Inflicts [Ignite] on targets, causing them to lose 6% of their current HP per round for 4 rounds."
+    },
+    {
+      "name": "Flames Bomb",
+      "rarity": "SSR+/UR",
+      "damage": "6 random attacks, each causing 50% P.DMG",
+      "effect": "If the target is in [Ignite] state, the damage is converted into True Damage, bypassing defense and resistance."
+    }
+  ],
+  "passive_skills": [
+    {
+      "name": "Emberbringer",
+      "effect": "CRIT +15%, Leech +10%"
+    },
+    {
+      "name": "Dragon Blood",
+      "effect": "P.RES +20%, M.RES +20%"
+    },
+    {
+      "name": "Flame Dragon Scale",
+      "effect": "DEF +25%, ATK +25%"
+    },
+    {
+      "name": "Ancient Prestige",
+      "effect": "ATK +35%"
+    }
+  ],
+  "exclusive_ur+_skill": [
+    {
+      "name": "Nova Blast",
+      "effect": "Upon entering battle, inflicts a [Nova Mark] on the enemy with the highest ATK for 3 turns. If the marked enemy's ATK is lower than Ember Dragon's ATK, reduces their ATK by 50% for 1 round. During her action, inflicts [Justice Fire] on all enemies, decreasing their Healing Effect by 50% for 1 round.",
+      "status_effects": [
+        {
+          "Nova Mark": "Enemies with this state will be attacked first."
+        },
+        {
+          "Justice Fire": "Affected enemies lose 8% of their Max HP (not exceeding 10 times Ember Dragon's ATK). This effect bypasses Debuff RES."
+        }
+      ]
+    }
+  ],
+  "fate": [
+    {
+      "angels": ["Frost Dragon", "Storm Dragon"],
+      "fate_name": "Dragon Blood",
+      "effect": "ATK UP 30%"
+    },
+    {
+      "angels": ["Odin", "Ra"],
+      "fate_name": "Emberbringer",
+      "effect": "ATK UP 20%"
+    },
+    {
+      "angels": ["Zhu Rong"],
+      "fate_name": "Descending of Vulcan",
+      "effect": "ATK UP 15%"
+    },
+    {
+      "angels": ["Amaterasu"],
+      "fate_name": "Mystery of Fire",
+      "effect": "HP UP 15%"
+    },
+    {
+      "angels": ["Kingyo"],
+      "fate_name": "Water on Fire",
+      "effect": "ATK UP 15%"
+    }
+  ],
+  "gallery": [
+    "Base Ember Dragon",
+    "Sacred Palace - Ember Dragon",
+    "UR Incinerate the Sky",
+    "UR+ Charming Party - Ember Dragon"
+  ],
+  "categories": [
+    "Red",
+    "Warrior",
+    "Characters"
+  ]
+}

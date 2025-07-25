@@ -1,0 +1,45 @@
+{
+  "name": "Muse",
+  "potential": 2725,
+  "main_attribute": "AGI",
+  "exclusive_relic": "N/A",
+  "temple_description": "The Muses were the Goddesses of Poetry, Music and Art in Greek mythology. They often appear in gatherings of gods or heroes. Muses were usually divided into two generations. The elder Muse was the daughter of Uranus and Gaia, and the younger Muse was the daughter of Zeus and Monemosa.",
+  "active_skills": [
+    {
+      "name": "Harmonious Shot",
+      "damage": "180% M.DMG",
+      "targets": "2 enemies",
+      "effect": ""
+    },
+    {
+      "name": "Mesmerizing Tune",
+      "damage": "130% M.DMG",
+      "targets": "1 enemy",
+      "effect": "Inflicts [Seal] effect, preventing the enemy from using skills for 2 rounds"
+    }
+  ],
+  "passive_skills": [
+    {
+      "name": "Angel of Arts",
+      "effect": "Max HP +3%"
+    }
+  ],
+  "fate": [
+    {
+      "angels": ["Minotaur"],
+      "fate_name": "Beauty of Sin",
+      "effect": "HP UP 10%"
+    },
+    {
+      "angels": ["Sif"],
+      "fate_name": "Beauty and Dream",
+      "effect": "ATK UP 10%"
+    }
+  ],
+  "gallery": [
+    "Base Muse",
+    "Muse third fashion suit",
+    "Swim suit party"
+  ],
+  "categories": []
+}

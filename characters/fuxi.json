@@ -1,0 +1,67 @@
+{
+  "name": "Fuxi",
+  "potential": {
+    "SSR": 4150
+  },
+  "main_attribute": "INT",
+  "exclusive_relic": "N/A",
+  "temple_description": "Fuxi was the beginning of the humanities of the Chinese nation and one of the three ancient emperors with immense power. \nShe created divination and the Eight Trigrams based on the changes of heaven and earth. \nAdditionally, she invented writing to replace the practice of knotting ropes for record-keeping. \nFuxi also taught humanity fishing and hunting, earning the utmost respect from mankind.",
+  "active_skills": [
+    {
+      "name": "Taichi",
+      "rarity": "SSR",
+      "damage": "180% M.DMG",
+      "target": "4 enemies",
+      "effect": "Has a 50% chance to stun enemies for 1 round."
+    },
+    {
+      "name": "Harmony of Man and Nature",
+      "rarity": "SSR",
+      "damage": "200% M.DMG",
+      "target": "4 enemies",
+      "effect": "Restores HP equal to 70% of her ATK."
+    }
+  ],
+  "passive_skills": [
+    {
+      "name": "The Three Sovereigns",
+      "effect": "Max HP +4%, ATK +4%"
+    },
+    {
+      "name": "The First God",
+      "effect": "ATK +8%, CRIT +8%"
+    },
+    {
+      "name": "Creation Angel",
+      "effect": "ATK +15%"
+    }
+  ],
+  "fate": [
+    {
+      "angels": ["Phantasos"],
+      "fate_name": "Mirror of Illusions",
+      "effect": "ATK UP 15%"
+    },
+    {
+      "angels": ["Princess Bari", "Amaterasu"],
+      "fate_name": "Eastern Star",
+      "effect": "HP UP 20%"
+    },
+    {
+      "angels": ["Nuwa"],
+      "fate_name": "Civilization Awakening",
+      "effect": "ATK UP 15%"
+    }
+  ],
+  "gallery": [
+    "Base Fuxi",
+    "Second Fashion Outfit - Fuxi",
+    "Third Fashion Outfit - Fuxi",
+    "Pool Party - Fuxi"
+  ],
+  "categories": [
+    "Orange",
+    "Mage",
+    "Characters"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Song of Siren",
+  "id": "SongOfSiren",
+  "rarity": "SR",
+  "max_quality": "UR+5★",
+  "exclusive": {
+    "class": "Mage",
+    "buff": {
+      "effect": "Debuff RES +8%",
+      "max_effect": "Debuff RES +30%"
+    }
+  },
+  "awakening": false,
+  "static_attribute": {
+    "type": "SPD",
+    "base": 20,
+    "max": 75
+  },
+  "description": "Don't approach the good night in the night and fall asleep in such a comfortable song to avoid falling into their mouths.",
+  "unlock_level": 60,
+  "image": "song_of_siren.webp",
+  "base_price": 1500
+}

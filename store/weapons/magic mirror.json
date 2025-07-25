@@ -1,0 +1,18 @@
+{
+  "name": "Magic Mirror",
+  "id": "MagicMirror",
+  "initial_quality": "SR",
+  "max_quality": "UR+5",
+  "awakening": true,
+  "exclusive_limit": {
+    "class": "Archer",
+    "effect": "HP UP +8%",
+    "max_effect": "HP UP +30%"
+  },
+  "static_attribute": {
+    "effect": "DMG to Mage +16%",
+    "max_effect": "DMG to Mage +60%"
+  },
+  "description": "Phantasos knew every skill and she can transform into the appearance of everything in the world. No one has ever seen the original appearance of Phantasos, maybe she has forgotten what she was originally.",
+  "awaken_skills": []
+}

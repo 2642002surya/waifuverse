@@ -1,0 +1,37 @@
+{
+  "name": "Five-color Stone",
+  "id": "FiveColorStone",
+  "initial_quality": "SR",
+  "max_quality": "UR+5★",
+  "unlock_level": 60,
+  "exclusive_limit": {
+    "character": "Nuwa",
+    "effect": "Increased Heal +20%",
+    "max_effect": "75%"
+  },
+  "awakening": true,
+  "static_attributes": {
+    "DMG to Warrior": "24%",
+    "max": "90%"
+  },
+  "awakening_skills": [
+    {
+      "level": 30,
+      "name": "Strike of Nuwa",
+      "description": "Increase the coefficient of M.DMG by 30%"
+    },
+    {
+      "level": 60,
+      "name": "Sky Mending Colors",
+      "description": "Increase the coefficient of Restore HP by 40%"
+    },
+    {
+      "level": 90,
+      "name": "Twilight",
+      "description": "ATK+10%, HP+10% (Valid ONLY in Arena, Clash of Titans, Glory Arena, Clash of Guilds, Olympus Legend, Gods Twilight, and friends battle)"
+    }
+  ],
+  "introduction": "The four pillars fell and the land of earth was destroyed. Fire spread everywhere and floods crushed houses. Humans have lost the hope for their lives. Nuwa who mended the sky with the five-color stone. Just like her mother, she used all kinds of five-color stones to prop up the sky of our growth.",
+  "image": "FiveColorStone.webp",
+  "base_price": 8000
+}

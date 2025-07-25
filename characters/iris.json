@@ -1,0 +1,53 @@
+{
+  "name": "Iris",
+  "potential": {
+    "SSR+": 3250
+  },
+  "main_attribute": "AGI",
+  "exclusive_relic": "N/A",
+  "temple_description": "Iris was the incarnation of the rainbow in Greek mythology, and ancient people \nbelieved that she could connect heaven and earth. \nAfter the formation of the Olympian Pantheon, Iris was regarded as the liaison \nbetween gods and people. She conveys the will and commands of the gods to \npeople. \nShe was Hera's envoy, but she merely executes Zeus' and Hera's orders, and her \npersonal opinions play no part in her duties.",
+  "active_skills": [
+    {
+      "name": "Arcane Arrow",
+      "rarity": "SSR+",
+      "effect": "Deals 120% P.DMG to 2 enemies with the highest ATK and has a 70% chance \nto stun them for 1 round."
+    },
+    {
+      "name": "Devastating Shot",
+      "rarity": "SSR+",
+      "effect": "Deals 150% P.DMG to 3 enemies in the front row and has a 50% chance \nto inflict [Bleed], preventing all healing for 2 rounds."
+    }
+  ],
+  "passive_skills": [
+    {
+      "name": "God of Nine Pillars",
+      "effect": "ATK +4%, ACC +4%"
+    },
+    {
+      "name": "God of Birth",
+      "effect": "Max HP +6%, Leech +2%"
+    }
+  ],
+  "fate": [
+    {
+      "angels": ["Raphael"],
+      "fate_name": "Goddess' Favor",
+      "effect": "HP UP +15%"
+    },
+    {
+      "angels": ["Belldandy"],
+      "fate_name": "Blessing of Fate",
+      "effect": "ATK UP +15%"
+    }
+  ],
+  "gallery": [
+    "Base Iris",
+    "Iris Second Fashion Suit",
+    "Iris Third Fashion Suit"
+  ],
+  "categories": [
+    "Purple",
+    "Archer",
+    "Characters"
+  ]
+}

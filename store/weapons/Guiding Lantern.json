@@ -1,0 +1,35 @@
+{
+  "name": "Guiding Lantern",
+  "initial_quality": "SR",
+  "max_quality": "UR+5★",
+  "exclusive_class": "Asura",
+  "exclusive_effect": {
+    "effect": "DMG Reduction",
+    "value": "41.25%"
+  },
+  "awakening": true,
+  "static_attributes": {
+    "ATK UP": "45%"
+  },
+  "awakening_skills": [
+    {
+      "level": 30,
+      "name": "Shuraba (Shura King Realm)",
+      "description": "All enemies will receive an extra 3% of Asura's attributes reduction"
+    },
+    {
+      "level": 60,
+      "name": "Hatred Heart (Antipathy heart)",
+      "description": "Increase the coefficient of P.DMG by 50%"
+    },
+    {
+      "level": 90,
+      "name": "Twilight",
+      "description": "CRIT+10%, FOR+10% (Valid ONLY in Arena, Clash of Titans, Glory Arena, Clash of Guilds, Olympus Legend, Gods Twilight, and friends battle)"
+    }
+  ],
+  "unlock_level": 60,
+  "base_price": 600,
+  "image": "Guiding Lantern.webp",
+  "introduction": "On this lonely road, there is always a need for guidance, no matter whether it is the light in her heart. Asura didn't seem to treat the enemies' souls so cruelly, and it was a bit of comfort for the bruised fleshes in Shuraba."
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Throne",
+  "rarity": "R",
+  "max_quality": "SSR+",
+  "exclusive_limit": {
+    "class": "Archer",
+    "effect": "DMG Increase +2.5%",
+    "max_effect": null
+  },
+  "awakening": false,
+  "static_attribute": {
+    "effect": "DMG to Mage +7.5%",
+    "max_effect": "24%"
+  },
+  "introduction": "Iris as the meaning of the throne provided the throne to pharaoh who is Iris's child. Iris can use her throne to protect young children and dead people, also she can also use her throne to resurrect the dead.",
+  "enhance_awakening": "N/A",
+  "unlock_level": 60,
+  "attributes": {},
+  "image": "Throne.webp",
+  "base_price": 2000
+}

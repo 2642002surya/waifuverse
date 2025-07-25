@@ -1,0 +1,59 @@
+{
+  "name": "Poseidon",
+  "potential": 3575,
+  "main_attribute": "INT",
+  "exclusive_relic": "N/A",
+  "temple_description": "One of the twelve main Goddesses of Olympus, she is the Goddess in charge of the seas. Possessing infinite divine power, she can easily trigger storms and tsunamis, and often launch terrible wars when angered.\nShe is a Goddess that is full of ambition. She, together with Zeus and Hades, ruled the Sea, the Sky, and the Underworld respectively.",
+  "active_skills": [
+    {
+      "name": "Curse of the Abyss",
+      "damage": "220% M.DMG",
+      "targets": "3 enemies in back row",
+      "effect": "Make enemy enter [Weaken] state that reduces their ATK by 30% for 1 round"
+    },
+    {
+      "name": "Mirage",
+      "damage": "Heals 3 angels in front row",
+      "targets": "3 angels in front row",
+      "effect": "Removes all debuffs; healing amount equals 100% of Poseidon's ATK"
+    }
+  ],
+  "passive_skills": [
+    {
+      "name": "Power of Poseidon",
+      "effect": "Max HP +4%, DEF +4%"
+    },
+    {
+      "name": "Water Elemental",
+      "effect": "ATK +8%, Leech +2%"
+    },
+    {
+      "name": "God of Storm",
+      "effect": "ATK +12%, CRIT +12%"
+    }
+  ],
+  "fate": [
+    {
+      "angels": ["Nuit", "Zhu Rong"],
+      "fate_name": "Power of Elements",
+      "effect": "ATK UP 20%"
+    },
+    {
+      "angels": ["Siren"],
+      "fate_name": "Power of Sea",
+      "effect": "HP UP 15%"
+    },
+    {
+      "angels": ["Izu Dancer"],
+      "fate_name": "Healing Heart",
+      "effect": "ATK UP 15%"
+    }
+  ],
+  "gallery": [
+    "Base Poseidon",
+    "Poseidon second fashion outfit",
+    "Poseidon third fashion outfit",
+    "Pool Party - Poseidon"
+  ],
+  "categories": []
+}

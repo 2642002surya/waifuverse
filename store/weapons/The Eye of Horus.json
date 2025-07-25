@@ -1,0 +1,37 @@
+{
+  "name": "The Eye of Horus",
+  "id": "TheEyeOfHorus",
+  "rarity": "SR",
+  "max_quality": "UR+5",
+  "initial_quality": "SR",
+  "exclusive_limit": {
+    "character": "Horus",
+    "effect": "ACC +20% (75% when Max)"
+  },
+  "awakening": true,
+  "static_attributes": {
+    "ATK": 12,
+    "ATK_max_percent": 45
+  },
+  "unlock_level": 60,
+  "introduction": "This supreme artifact from Egyptian mythology represents the divine protection and ultimate sovereignty of the gods. It is said no one can lie while under the gaze of The Eye of Horus.",
+  "awakening_skills": [
+    {
+      "level": 30,
+      "name": "Judgment Claw (Divine Judgment)",
+      "description": "When the bearer of [Judgment] is defeated, the enemy who defeated her becomes the target. Reduces the target's ATK by extra 5%."
+    },
+    {
+      "level": 60,
+      "name": "Punishment Eye (Divinity Eye)",
+      "description": "All allies receive an extra shield equal to 200% of Horus's ATK that lasts for 2 rounds (cannot be dispelled)."
+    },
+    {
+      "level": 90,
+      "name": "Twilight",
+      "description": "Speed +100, Buff Hit Probability +10% (Valid ONLY in Arena, Clash of Titans, Glory Arena, Clash of Guilds, Olympus Legend, Gods Twilight, Conqueror of Legends, and friends battle)"
+    }
+  ],
+  "image": "TheEyeOfHorus.webp",
+  "base_price": 10000
+}

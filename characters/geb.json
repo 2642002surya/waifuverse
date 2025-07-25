@@ -1,0 +1,56 @@
+{
+  "name": "Geb",
+  "potential": {
+    "SSR": 3250
+  },
+  "main_attribute": "STR",
+  "exclusive_relic": "N/A",
+  "temple_description": "In ancient Egyptian mythology, Geb was the God of the Earth and one of the nine \npillar deities of Heliopolis. \nBecause she was inseparable from her sister Nuit, there was not enough space in \nthe world for living. Thus, her father was ordered by the sun god to separate them. \nA powerful divinity, Geb was responsible for imprisoning evil souls to prevent \nsinners from entering heaven.",
+  "active_skills": [
+    {
+      "name": "Ground-shaking Strike",
+      "rarity": "SSR",
+      "damage": "340% P.DMG",
+      "target": "1 enemy",
+      "effect": "Converts 80% of DMG into self-healing."
+    },
+    {
+      "name": "Earthquake",
+      "rarity": "SSR",
+      "effect": "Enters [Taunt] state, reduces 65% DMG taken, and forces enemies \nto attack her when using basic attacks for 2 rounds."
+    }
+  ],
+  "passive_skills": [
+    {
+      "name": "Master of Earth",
+      "effect": "Reflects 4% DMG taken to the source."
+    },
+    {
+      "name": "Ennead",
+      "effect": "Max HP +6%, DEF +6%"
+    }
+  ],
+  "fate": [
+    {
+      "angels": ["Nephthys", "Xiwangmu", "Belldandy"],
+      "fate_name": "Origin of Life",
+      "effect": "ATK UP +20%"
+    },
+    {
+      "angels": ["Lilith"],
+      "fate_name": "Blessing of Fate",
+      "effect": "HP UP +15%"
+    }
+  ],
+  "gallery": [
+    "Base Geb",
+    "Second Fashion Outfit - Geb",
+    "Third Fashion Outfit - Geb",
+    "Pool Party - Geb"
+  ],
+  "categories": [
+    "Purple",
+    "Warrior",
+    "Characters"
+  ]
+}

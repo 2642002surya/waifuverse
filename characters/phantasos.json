@@ -1,0 +1,40 @@
+{
+  "name": "Phantasos",
+  "potential": 3525,
+  "main_attribute": "AGI",
+  "exclusive_relic": "",
+  "temple_description": "",
+  "active_skills": [
+    {
+      "name": "Phantom Arrows",
+      "damage": "",
+      "targets": "",
+      "effect": ""
+    },
+    {
+      "name": "Sign of the light",
+      "damage": "",
+      "targets": "",
+      "effect": ""
+    }
+  ],
+  "passive_skills": [
+    {
+      "name": "Fantasy",
+      "effect": ""
+    },
+    {
+      "name": "Oneiroi",
+      "effect": ""
+    },
+    {
+      "name": "god revealed",
+      "effect": ""
+    }
+  ],
+  "fate": [],
+  "gallery": [
+    "Base Phantasos"
+  ],
+  "categories": []
+}

@@ -1,0 +1,55 @@
+{
+  "name": "Nephthys",
+  "potential": 3075,
+  "main_attribute": "AGI",
+  "exclusive_relic": "",
+  "temple_description": "One of the nine pillar goddesses of Heliopolis in ancient Egyptian mythology, and possesses powerful divine powers. She was the daughter of Geb and Nuit and is the guardian deity of Lodgings & Death. She often helped her sister, Isis, the Egyptian Goddess of Life, to raise her offspring—Horus—and saved Horus from danger many times.",
+  "active_skills": [
+    {
+      "name": "Life Harvest",
+      "damage": "180% P.DMG",
+      "targets": "2 enemies",
+      "effect": "Guaranteed CRIT if target's HP is below 50%"
+    },
+    {
+      "name": "Life Restore",
+      "damage": "100% P.DMG",
+      "targets": "2 enemies",
+      "effect": "Heals 2 allies with lowest HP% by 50% of ATK"
+    }
+  ],
+  "passive_skills": [
+    {
+      "name": "Master of Life",
+      "effect": "ATK +3%, Crit DMG +3%"
+    },
+    {
+      "name": "Guard of Death",
+      "effect": "Max HP +7%, CRIT +6%"
+    }
+  ],
+  "exclusive_ur_plus_skills": [],
+  "fate": [
+    {
+      "angels": ["Geb", "Xiwangmu", "Belldandy"],
+      "fate_name": "Origin of Life",
+      "effect": "ATK UP 20%"
+    },
+    {
+      "angels": ["Anubis"],
+      "fate_name": "Master of Death",
+      "effect": "HP UP 15%"
+    }
+  ],
+  "gallery": [
+    "Base Nephthys",
+    "Nephthys Second Angel Fashion",
+    "Nephthys Third Angel Fashion",
+    "Nephthys Swimsuit Party"
+  ],
+  "categories": [
+    "Characters",
+    "Green",
+    "Archer"
+  ]
+}

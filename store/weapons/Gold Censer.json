@@ -1,0 +1,19 @@
+{
+  "name": "Gold Censer",
+  "id": "GoldCenser",
+  "rarity": "N",
+  "max_quality": "SR+",
+  "exclusive_limit": "N/A",
+  "awakening": false,
+  "attributes": {
+    "dmg_reduction": 2
+  },
+  "max_attributes": {
+    "dmg_reduction": 5
+  },
+  "introduction": "The censer is full of magical power. It can ward off evil spirits, attract blessings, and gives peculiar power to the Ungnyeo.",
+  "enhance_awakening": "N/A",
+  "unlock_level": 1,
+  "image": "GoldCenser.webp",
+  "base_price": 800
+}

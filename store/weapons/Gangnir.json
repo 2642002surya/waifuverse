@@ -1,0 +1,14 @@
+{
+  "name": "Gangnir",
+  "rarity": "SR+",
+  "quality": "SR",
+  "attributes": {
+    "atk": 120,
+    "crit": 15,
+    "speed": 10
+  },
+  "awakening": true,
+  "unlock_level": 60,
+  "image": "Gangnir.webp",
+  "base_price": 3000
+}

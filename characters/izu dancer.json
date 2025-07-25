@@ -1,0 +1,63 @@
+{
+  "name": "Izu Dancer",
+  "potential": {
+    "SSR+": 4250
+  },
+  "main_attribute": "AGI",
+  "exclusive_relic": "N/A",
+  "temple_description": "Izu Dancer was considered the originator of the Japanese Kagura dance, \npossessing powerful divine energy. \nAfter the Great God Amaterasu hid in Amano-Iwato, the world was shrouded in \ndarkness. In response, the gods had no choice but to let Izu perform the \nKagura dance in front of the sacred cave. Her mesmerizing dance lured \nAmaterasu out, restoring light to the world.",
+  "active_skills": [
+    {
+      "name": "Purging Arrow",
+      "rarity": "SSR+",
+      "effect": "Deals 250% P.DMG to 3 enemies in the front row and has a 75% chance \nto inflict [Sunder Armor], reducing their DEF by 60% for 3 rounds."
+    },
+    {
+      "name": "Sacred Dance",
+      "rarity": "SSR+",
+      "effect": "All teammates enter [Excite] state, increasing self DEF by 50% and \nself ATK by 40% for 3 rounds. \nHas a 75% chance to dispel all debuffs and restore HP equal to 40% of Izu's ATK."
+    }
+  ],
+  "passive_skills": [
+    {
+      "name": "Pure Spirit",
+      "effect": "Max HP +4%, DEF +4%"
+    },
+    {
+      "name": "Flawless Soul",
+      "effect": "ATK +8%, Debuff RES +20%"
+    },
+    {
+      "name": "Holy Blessing",
+      "effect": "Max HP +12%, M.RES +12%"
+    }
+  ],
+  "fate": [
+    {
+      "angels": ["Poseidon"],
+      "fate_name": "Healing Heart",
+      "effect": "ATK UP +15%"
+    },
+    {
+      "angels": ["Princess Bari"],
+      "fate_name": "Graceful Dance",
+      "effect": "HP UP +15%"
+    },
+    {
+      "angels": ["Izanami", "Enmusubi"],
+      "fate_name": "Brilliant Yamato",
+      "effect": "ATK UP +20%"
+    }
+  ],
+  "gallery": [
+    "Base Izu Dancer",
+    "Izu Dancer Second Fashion Outfit",
+    "Izu Dancer Third Fashion Outfit",
+    "Pool Party - Izu Dancer"
+  ],
+  "categories": [
+    "Orange",
+    "Archer",
+    "Characters"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Gentle Pray",
+  "image": "Gentle Pray.webp",
+  "initial_quality": "R",
+  "max_quality": "SSR+",
+  "exclusive_limit": null,
+  "awakening": false,
+  "unlock_level": 60,
+  "static_attribute": {
+    "Increased Heal": "+10%"
+  },
+  "description": "Raphael owns the title of Wisdom Angel. This is representative of powerful strength. In the night of winter, it is the existence that can warm and heal people's hearts.",
+  "base_price": 4500,
+  "exclusive_class_buff": null,
+  "attribute_growth": {
+    "quality_path": [
+      "R", "R+", "SR", "SR+", "SSR", "SSR+"
+    ],
+    "resources_required": {
+      "R→R+": {"type": "same", "quality": "R", "quantity": 2},
+      "R+→SR": {"type": "any", "quality": "R+", "quantity": 2},
+      "SR→SR+": {"type": "same", "quality": "SR", "quantity": 1},
+      "SR+→SSR": {"type": "any", "quality": "SR+", "quantity": 2},
+      "SSR→SSR+": {"type": "same", "quality": "SSR+", "quantity": 1}
+    }
+  }
+}

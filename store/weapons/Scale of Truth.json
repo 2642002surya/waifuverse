@@ -1,0 +1,37 @@
+{
+  "name": "Scale of Truth",
+  "id": "ScaleOfTruth",
+  "filename": "ScaleOfTruth",
+  "rarity": "SR",
+  "initial_quality": "SR",
+  "quality": "SR",
+  "max_quality": "UR+5",
+  "exclusive_to": "Ra",
+  "exclusive_bonus": {
+    "base": "DMG Increase +12%",
+    "max": "DMG Increase +45%"
+  },
+  "awakening": true,
+  "attributes": {
+    "base": "DMG Increase +20%",
+    "max": "DMG Increase +75%"
+  },
+  "awakening_skills": {
+    "30": {
+      "name": "Eye of Ra (Star Gaze)",
+      "description": "Release the skill again if the targeted enemy has been killed."
+    },
+    "60": {
+      "name": "Solar Storm (Universe Storm)",
+      "description": "Increase the coefficient of M.DMG by 20% and burn enemies' Max HP."
+    },
+    "90": {
+      "name": "Twilight",
+      "description": "ATK+10%, CRIT+10% (Valid ONLY in Arena, Clash of Titans, Glory Arena, Clash of Guilds, Olympus Legend, Gods Twilight, and friends battle)"
+    }
+  },
+  "description": "Anubis's scale of truth fell into Ra's hands and the dead people will have a wonderful journey of their soul weighing.",
+  "unlock_level": 60,
+  "base_price": 4500,
+  "image": "ScaleOfTruth.webp"
+}

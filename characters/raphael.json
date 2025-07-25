@@ -1,0 +1,50 @@
+{
+  "name": "Raphael",
+  "potential": 2625,
+  "main_attribute": "INT",
+  "exclusive_relic": "N/A",
+  "temple_description": "Raphael, the famous archangel, was a Dominion of the second Sphere, the monarch of the Angels of Virtues, the guardian of the life Tree in the Garden of Eden, and one of the seven angels before the throne of God.\nShe exercised all the miracles of healing. In addition to curing people's sufferings, she also taught the knowledge and skills of building the ark to Noah's family.",
+  "active_skills": [
+    {
+      "name": "Light Heal",
+      "damage": null,
+      "targets": "3 angels of our team with the lowest HP percentage",
+      "effect": "Heals by 100% of Raphael's ATK"
+    },
+    {
+      "name": "Seraph",
+      "damage": null,
+      "targets": "3 angels of our team",
+      "effect": "Enter [Excite] state, increases DEF by 60% and ATK by 18% for 3 rounds"
+    }
+  ],
+  "passive_skills": [
+    {
+      "name": "Elemental Mastery",
+      "effect": "Max HP +3%"
+    },
+    {
+      "name": "Life Guard",
+      "effect": "ATK +8%"
+    }
+  ],
+  "fate": [
+    {
+      "angels": ["Player", "Gabriel"],
+      "fate_name": "Angel Guardian",
+      "effect": "Max HP +2000"
+    },
+    {
+      "angels": ["Iris"],
+      "fate_name": "Goddess' Favor",
+      "effect": "HP UP 15%"
+    }
+  ],
+  "gallery": [
+    "Base Raphael",
+    "Base Raphael(New)",
+    "Raphael Second fashion outfit",
+    "Raphael Third fashion outfit"
+  ],
+  "categories": []
+}

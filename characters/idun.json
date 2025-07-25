@@ -1,0 +1,63 @@
+{
+  "name": "Idun",
+  "potential": {
+    "SSR+": 3575
+  },
+  "main_attribute": "AGI",
+  "exclusive_relic": "N/A",
+  "temple_description": "Idun is the goddess of youth in Nordic mythology and the embodiment of \nyouth and spring with a mysterious origin. She was responsible for the \nGolden Apple that keeps the gods youthful. \nIdun was once snatched away by a Giant, which made it impossible for the gods \nto obtain the apple of youth. When the gods began to age, it caused a huge \npanic in the gods' world.",
+  "active_skills": [
+    {
+      "name": "Youth Apple",
+      "rarity": "SSR+",
+      "effect": "Deals 225% P.DMG to 3 enemies with the highest ATK and applies [Blind], \nreducing their ACC by 80% for 3 rounds."
+    },
+    {
+      "name": "Ward of Brilliance",
+      "rarity": "SSR+",
+      "effect": "Shoots 3 random arrows, each dealing 160% P.DMG to an enemy. \nThe attack is guaranteed to Crit if the enemy is affected by any debuff."
+    }
+  ],
+  "passive_skills": [
+    {
+      "name": "Angel of Youth",
+      "effect": "ATK +4%, P.RES +4%"
+    },
+    {
+      "name": "Pure Power",
+      "effect": "Max HP +8%, DEF +8%"
+    },
+    {
+      "name": "Ever-Youth",
+      "effect": "ATK +12%, Leech +12%"
+    }
+  ],
+  "fate": [
+    {
+      "angels": ["Jeanne d'Arc"],
+      "fate_name": "Pure Heart",
+      "effect": "ATK UP +15%"
+    },
+    {
+      "angels": ["Siren"],
+      "fate_name": "Forever Young",
+      "effect": "ATK UP +15%"
+    },
+    {
+      "angels": ["Valkyrie", "Odin"],
+      "fate_name": "Ragnarok Witness",
+      "effect": "HP UP +20%"
+    }
+  ],
+  "gallery": [
+    "Base Idun",
+    "Idun Second Fashion Outfit",
+    "Idun Third Fashion Outfit",
+    "Pool Party - Idun"
+  ],
+  "categories": [
+    "Orange",
+    "Archer",
+    "Characters"
+  ]
+}

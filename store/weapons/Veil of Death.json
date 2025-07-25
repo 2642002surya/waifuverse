@@ -1,0 +1,37 @@
+{
+  "name": "Veil of Death",
+  "id": "VeilOfDeath",
+  "initial_quality": "SR",
+  "max_quality": "UR+5",
+  "exclusive_limit": {
+    "character": "Hades",
+    "effect": "RES PEN +300",
+    "max_effect": "RES PEN +1125"
+  },
+  "awakening": true,
+  "static_attributes": {
+    "atk_percent": 10,
+    "max_atk_percent": 37.5
+  },
+  "introduction": "Hades has many veils, one of those veils is really special. Is it because of the veil itself? No, the person who gave me the veil gave it an unique meaning.",
+  "awakening_skills": [
+    {
+      "level": 30,
+      "name": "Underground Hand",
+      "description": "Release the skill again (up to 6 times) if the targeted enemy has been killed."
+    },
+    {
+      "level": 60,
+      "name": "Underground Fog",
+      "description": "Increase the coefficient of P.DMG by 50%."
+    },
+    {
+      "level": 90,
+      "name": "Twilight",
+      "description": "ATK+10%, CRIT+10% (Valid ONLY in Arena, Clash of Titans, Glory Arena, Clash of Guilds, Olympus Legend, Gods Twilight, Conqueror of Legends, and friends battle)."
+    }
+  ],
+  "unlock_level": 60,
+  "image": "VeilOfDeath.webp",
+  "base_price": 4500
+}

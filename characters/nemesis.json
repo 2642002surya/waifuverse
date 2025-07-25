@@ -1,0 +1,62 @@
+{
+  "name": "Nemesis",
+  "potential": 3525,
+  "main_attribute": "AGI",
+  "exclusive_relic": "N/A",
+  "temple_description": "Nemesis was the cold and ruthless Goddess of Vengeance in Greek mythology, also known as the goddess of Ramnos.\nShe represents ruthless justice and will condemn those who are arrogant in front of the gods. Those who are cursed by her will fall into endless misfortune.",
+  "active_skills": [
+    {
+      "name": "Relentless Justice",
+      "damage": "150% P.DMG",
+      "targets": "6 enemies",
+      "effect": "Applies [Afterimage] state on self, increases 30% EVA for 3 rounds"
+    },
+    {
+      "name": "Holy Vengeance",
+      "damage": "150% P.DMG",
+      "targets": "6 enemies",
+      "effect": "Converts 8% of total DMG as self-healing"
+    }
+  ],
+  "passive_skills": [
+    {
+      "name": "Daughter of Zeus",
+      "effect": "ATK +4%, Leech +2%"
+    },
+    {
+      "name": "Inevitability",
+      "effect": "Max HP +8%, ACC +8%"
+    },
+    {
+      "name": "Angel of Revenge",
+      "effect": "ATK +12%, DMG reflection +12%"
+    }
+  ],
+  "fate": [
+    {
+      "angels": ["Medusa"],
+      "fate_name": "Power of Time",
+      "effect": "ATK UP 15%"
+    },
+    {
+      "angels": ["Jeanne d'Arc", "Nike"],
+      "fate_name": "Battle Cry",
+      "effect": "HP UP 20%"
+    },
+    {
+      "angels": ["Erebus"],
+      "fate_name": "Dark and Death",
+      "effect": "ATK UP 15%"
+    }
+  ],
+  "gallery": [
+    "Base Nemesis",
+    "Nemesis second fashion suit",
+    "Nemesis third fashion suit"
+  ],
+  "categories": [
+    "Archer",
+    "Characters",
+    "Red"
+  ]
+}

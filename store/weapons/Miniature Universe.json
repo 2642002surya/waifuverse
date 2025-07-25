@@ -1,0 +1,30 @@
+{
+  "name": "Miniature Universe",
+  "rarity": "SR",
+  "max_quality": "UR+5",
+  "exclusive_limit": "Gaia",
+  "exclusive_buff": "Crit DMG UP +20% (75% when Max)",
+  "awakening": true,
+  "static_attribute": "DMG to Warrior +24% (90% when Max)",
+  "introduction": "Standing on the solid ground and surrounded by the hustle and bustle of the city, everyone is busy living their own life and worries about trivial things. But the vastness of the universe humbles us. We all live under the eye of Gaia and we exist in this chaotic universe only because of Gaia's love for us.",
+  "awakening_skills": [
+    {
+      "level": 30,
+      "skill_icon": "Avator",
+      "description": "Increase the coefficient of M.DMG by 30%"
+    },
+    {
+      "level": 60,
+      "skill_icon": "Gaia's Sympathy",
+      "description": "Increase the coefficient of M.DMG by 120%"
+    },
+    {
+      "level": 90,
+      "skill_icon": "Twilight",
+      "description": "ATK+10%, Crit +10% (Valid ONLY in Arena, Clash of Titans, Glory Arena, Clash of Guilds, Olympus Legend, Gods Twilight, Conqueror of Legends, and friends battle)"
+    }
+  ],
+  "base_price": 3500,
+  "unlock_level": 60,
+  "image": "miniature_universe.webp"
+}

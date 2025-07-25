@@ -1,0 +1,19 @@
+{
+  "name": "Horn of Doom",
+  "id": "HornOfDoom",
+  "rarity": "N",
+  "max_quality": "SR+",
+  "exclusive_limit": "N/A",
+  "awakening": false,
+  "attributes": {
+    "dmg_to_mage": 4
+  },
+  "max_attributes": {
+    "dmg_to_mage": 10
+  },
+  "introduction": "The doomsday represents the end of the old era. What new era will usher in? The horn of doomsday does not give its answer.",
+  "enhance_awakening": "N/A",
+  "unlock_level": 1,
+  "base_price": 500,
+  "image": "HornOfDoom.webp"
+}

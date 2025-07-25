@@ -1,0 +1,21 @@
+{
+  "name": "Youth Apple",
+  "rarity": "SR",
+  "max_quality": "UR+5",
+  "initial_quality": "SR",
+  "exclusive_limit": {
+    "class": "Archer",
+    "effect": "ACC +12%",
+    "max_effect": "45%"
+  },
+  "awakening": false,
+  "static_attribute": {
+    "effect": "DMG to Mage +16%",
+    "max_effect": "60%"
+  },
+  "introduction": "When the bird of youth is not there and it was captured by the autumn wind. Only youth apple can bring vigor and hope to people.",
+  "enhance_awakening": "N/A",
+  "unlock_level": 60,
+  "base_price": 3000,
+  "image": "YouthApple.webp"
+}

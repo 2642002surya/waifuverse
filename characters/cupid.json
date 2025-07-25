@@ -1,0 +1,93 @@
+{
+  "name": "Cupid",
+  "potential": {
+    "SSR+": 5125,
+    "UR": 5915,
+    "UR+": 6245
+  },
+  "main_attribute": "AGI",
+  "exclusive_relic": "Arrow of Love",
+  "temple_description": "Cupid was the god of love and eroticism, embodying love and hobbies. \nShe was rumored to be the descendant of Venus, though some believe she was actually Eros from Greek mythology. \nShe possessed two arrows: a gold arrow that induced love and a lead arrow that sparked hatred when shot into the heart.",
+  "active_skills": [
+    {
+      "name": "Guardian of Love",
+      "rarity": "SSR+/UR",
+      "effect": "Heals the entire team by 90% of Cupid's ATK and grants [Guard] to all team members, reducing damage taken by 30% and increasing Debuff RES by 30% for 2 rounds."
+    },
+    {
+      "name": "Arrow of Love",
+      "rarity": "SSR+/UR",
+      "damage": "550% P.DMG",
+      "target": "Enemy with the highest ATK",
+      "effect": "Inflicts [Weaken], reducing the target's ATK by 60% for 2 rounds. Guaranteed to Crit if the enemy is affected by [Freeze]."
+    }
+  ],
+  "passive_skills": [
+    {
+      "name": "Golden Arrow",
+      "effect": "Max HP +10%, DEF +10%"
+    },
+    {
+      "name": "Lead Arrow",
+      "effect": "CRIT +15%, CRIT DMG +50%"
+    },
+    {
+      "name": "Torch",
+      "effect": "ATK +20%, Leech +10%"
+    },
+    {
+      "name": "Angel of Love",
+      "effect": "P.RES +25%, M.RES +25%"
+    }
+  ],
+  "exclusive_ur+_skill": [
+    {
+      "name": "Amor's Shelter",
+      "effect": "Upon entering battle, increases Cupid's Debuff RES by 100% for 1 round (non-dispellable). During action, applies [Staunch] to all allies (non-dispellable). Each stack of [Staunch] increases Debuff RES by 5% for 2 rounds (can stack, but duration only refreshes when reactivated)."
+    }
+  ],
+  "fate": [
+    {
+      "angels": ["Nuwa"],
+      "fate_name": "Life Liquid",
+      "effect": "ATK UP 15%"
+    },
+    {
+      "angels": ["Xmas Angel"],
+      "fate_name": "Love Gift",
+      "effect": "ATK UP 15%"
+    },
+    {
+      "angels": ["Michael"],
+      "fate_name": "Love and Justice",
+      "effect": "HP UP 20%"
+    },
+    {
+      "angels": ["Ra", "Chaos", "Himiko"],
+      "fate_name": "Desert City",
+      "effect": "ATK UP 25%"
+    },
+    {
+      "angels": ["Himiko"],
+      "fate_name": "Demon's Love",
+      "effect": "HP UP 15%"
+    },
+    {
+      "angels": ["Frost Dragon"],
+      "fate_name": "Guardian Heart",
+      "effect": "HP UP 15%"
+    }
+  ],
+  "gallery": [
+    "Base Cupid",
+    "Cupid Third Fashion Outfit",
+    "Cupid Arrow of Love",
+    "UR Rose Garden",
+    "UR+ Bathing Manner-Cupid"
+  ],
+  "categories": [
+    "Red",
+    "Archer",
+    "Characters"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Laurel Wreath",
+  "id": "LaurelWreath",
+  "initial_quality": "SR",
+  "max_quality": "UR+5★",
+  "unlock_level": 60,
+  "awakening": false,
+  "exclusive": {
+    "class": "Warrior",
+    "effect": "Crit DMG UP +12%",
+    "max_effect": "Crit DMG UP +45%"
+  },
+  "static_attribute": {
+    "description": "DMG to Archer +16%",
+    "max_description": "DMG to Archer +60%"
+  },
+  "base_price": 4500,
+  "image": "LaurelWreath.png",
+  "introduction": "Embarked on a journey to find the only one in my heart. The road is torturous and complicated in journey, but as long as your firm direction, the angel of victory will eventually wear a laurel crown on your head."
+}

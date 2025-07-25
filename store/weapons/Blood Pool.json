@@ -1,0 +1,18 @@
+{
+  "name": "Blood Pool",
+  "id": "BloodPool",
+  "initial_quality": "R",
+  "max_quality": "SSR+",
+  "awakening": false,
+  "exclusive_class": null,
+  "unlock_level": 60,
+  "base_price": 1000,
+  "static_attribute": {
+    "effect": "DMG to Warrior",
+    "base_value": 7.5,
+    "max_value": 24
+  },
+  "introduction": "When he came back to his senses, the hand was tingled.\nThe scar is healed by time, but the heart was sad by rose.\nThe heart has been stolen, willing to turn into a drop in this pool of blood.",
+  "image": "BloodPool.png",
+  "enhance_info": "N/A"
+}

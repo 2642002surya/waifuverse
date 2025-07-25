@@ -1,0 +1,33 @@
+{
+  "name": "Pink Butterfly",
+  "rarity": "SR",
+  "max_quality": "UR+5",
+  "exclusive_limit": {
+    "character": "Nekomata",
+    "effect": "Increased Heal +20%",
+    "max_effect": "75%"
+  },
+  "awakening": true,
+  "awakening_skills": {
+    "30": {
+      "skill_name": "Paws Scratch",
+      "description": "Heals 4 angels with the lowest HP"
+    },
+    "60": {
+      "skill_name": "Paws Whirlwind",
+      "description": "Deals extra 250% DMG to the enemy with the lowest current HP, and inflicts [Bleed] effect"
+    },
+    "90": {
+      "skill_name": "Twilight",
+      "description": "ATK+10%, HP+10% (Valid ONLY in Arena, Clash of Titans, Glory Arena, Clash of Guilds, Olympus Legend, Gods Twilight, Conqueror of Legends, and friends battle)"
+    }
+  },
+  "static_attribute": {
+    "HP UP": "12%",
+    "max_HP_UP": "45%"
+  },
+  "unlock_level": 60,
+  "introduction": "The bell on the bow are making a jingle sound gracefully, and gradually it's getting closer and closer. Deliberately trying to avoid this gentle trap. Your eyes start to drift away. But these are all illusions.",
+  "image": "PinkButterfly.webp",
+  "base_price": 5000
+}

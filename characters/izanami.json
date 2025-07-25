@@ -1,0 +1,62 @@
+{
+  "name": "Izanami",
+  "potential": {
+    "SSR+": 4250
+  },
+  "main_attribute": "AGI",
+  "exclusive_relic": "N/A",
+  "temple_description": "Izanami was the mother of all in Japanese mythology, possessing extremely \npowerful divine abilities. Alongside Izanagi, she was one of the creator \ngods of Japan, also known as Yomotsuōkami and Chishikinoōkami. \nIn ancient times, she and Izanagi created the Great Eight Islands and the \nancient gods. However, they later separated due to an incident in Yomi.",
+  "active_skills": [
+    {
+      "name": "Infinite Tsukuyomi",
+      "rarity": "SSR+",
+      "effect": "Deals 280% P.DMG to the enemy with the highest HP percentage and inflicts \n[Break], reducing their P.RES and M.RES by 80% for 3 rounds. \nIf the attack crits, it strikes again (up to 2 additional attacks)."
+    },
+    {
+      "name": "Reincarnation",
+      "rarity": "SSR+",
+      "effect": "Deals 220% P.DMG to 3 enemies in the back row and inflicts [Bleed], \npreventing all healing for 3 rounds. \nThe attack is guaranteed to crit if the enemy is in [Poison] state."
+    }
+  ],
+  "passive_skills": [
+    {
+      "name": "Mother Goddess",
+      "effect": "ATK +4%, CRIT +4%"
+    },
+    {
+      "name": "Nether Angel",
+      "effect": "Crit DMG +40%, Leech +6%"
+    },
+    {
+      "name": "Filthy Body",
+      "effect": "Max HP +12%, DEF +12%"
+    }
+  ],
+  "fate": [
+    {
+      "angels": ["Phantasos"],
+      "fate_name": "Mirror of Mirages",
+      "effect": "HP UP +15%"
+    },
+    {
+      "angels": ["Izu Dancer", "Enmusubi"],
+      "fate_name": "Brilliant Yamato",
+      "effect": "ATK UP +20%"
+    },
+    {
+      "angels": ["Hephaestus"],
+      "fate_name": "Power of Defeating Demons",
+      "effect": "HP UP +15%"
+    }
+  ],
+  "gallery": [
+    "Base Izanami",
+    "Izanami Second Fashion Suit",
+    "Izanami Third Fashion Suit"
+  ],
+  "categories": [
+    "Orange",
+    "Archer",
+    "Characters"
+  ]
+}

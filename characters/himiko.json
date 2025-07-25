@@ -1,0 +1,85 @@
+{
+  "name": "Himiko",
+  "potential": {
+    "SSR+": 5300,
+    "UR": 6100,
+    "UR+": 6440
+  },
+  "main_attribute": "STR",
+  "exclusive_relic": "Ghost Blade",
+  "temple_description": "Himiko is the queen of Yamatai during the Yayoi period of Japan and one of \nthe most famous shamanesses. \nShe possessed mysterious powers and was the originator of the magecraft \nknown as Kidou in ancient Japan. \nThe details of her life vary from source to source, and no primary \nhistorical records provide a definitive account of her existence.",
+  "active_skills": [
+    {
+      "name": "Soul Heaven Slash (Extreme Heaven Slash)",
+      "rarity": "SSR+/UR",
+      "effect": "Himiko's soul blade absorbs a mysterious power as it slashes 6 enemies, \ndealing 70% P.DMG per slash. \nEach critical hit has a 50% chance to enter [Soul Mode] for 2 rounds. \n\n[Soul Mode]: Increases ATK by 30% and Leech by 10% (cannot be dispelled)."
+    },
+    {
+      "name": "Mysterious Slash (Extreme Mysterious Slash)",
+      "rarity": "SSR+/UR",
+      "effect": "Channels mysterious power into her blade and slashes the enemy with the \nhighest ATK 6 times. \nEach slash inflicts 100% P.DMG and applies a [Bleeding] effect for 1 round. \nEvery critical hit has a 40% chance of triggering mysterious power, \ndealing additional True DMG equal to 50% of Himiko's ATK and healing \nher for the same amount."
+    }
+  ],
+  "passive_skills": [
+    {
+      "name": "Mysterious",
+      "effect": "ATK +15%, Crit DMG +20%"
+    },
+    {
+      "name": "Domination",
+      "effect": "P.RES +15%, CRIT +15%"
+    },
+    {
+      "name": "Legend",
+      "effect": "M.RES +20%, ATK +20%"
+    },
+    {
+      "name": "Demi-God",
+      "effect": "Crit Probability +50%"
+    }
+  ],
+  "exclusive_ur+_skill": {
+    "name": "Swift Wind Blade",
+    "effect": "When entering battle, Himiko gains 2 layers of [Parry] (cannot be dispelled). \nEach time she receives DMG exceeding 40% of her Max HP, she consumes 1 layer of \n[Parry] to reduce the DMG to 40% of her Max HP. \nHimiko must land a critical hit, and her DMG increases based on her Crit. \nThis effect lasts for 2 rounds."
+  },
+  "fate": [
+    {
+      "angels": ["Hades"],
+      "fate_name": "Ghost Power",
+      "effect": "HP UP +15%"
+    },
+    {
+      "angels": ["Ra", "Cupid", "Chaos"],
+      "fate_name": "Desert City",
+      "effect": "ATK UP +25%"
+    },
+    {
+      "angels": ["Cupid"],
+      "fate_name": "Demon's Love",
+      "effect": "HP UP +15%"
+    },
+    {
+      "angels": ["Chaos"],
+      "fate_name": "Ghost Domination",
+      "effect": "HP UP +15%"
+    },
+    {
+      "angels": ["Storm Dragon", "Gaia"],
+      "fate_name": "Shattered Void",
+      "effect": "Crit DMG UP +36%"
+    }
+  ],
+  "gallery": [
+    "Himiko base outfit",
+    "Himiko second outfit",
+    "Ghost Maihime",
+    "Sacred Palace",
+    "UR Under the Sky - Himiko",
+    "UR+ Sipping Under Moon - Himiko"
+  ],
+  "categories": [
+    "Red",
+    "Warrior",
+    "Characters"
+  ]
+}

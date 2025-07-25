@@ -1,0 +1,45 @@
+{
+  "name": "Ungnyeo",
+  "potential": 2750,
+  "main_attribute": "STR",
+  "exclusive_relic": "N/A",
+  "temple_description": "An important being in ancient Korean mythology, she was favored by the sun god Hwanung and took on a human form. As she had no husband, she prayed to Hwanung again under the sacred sandalwood tree, hoping to be blessed with a child. Impressed by her devotion, Hwanung took her as his wife, and she became the mother of Dangun, the founder of the Korean nation.",
+  "active_skills": [
+    {
+      "name": "Radiant Sword",
+      "damage": "120% P.DMG",
+      "targets": "3 enemies",
+      "effect": "Increases DMG by 7%"
+    },
+    {
+      "name": "Dawn Barrier",
+      "damage": "140% P.DMG",
+      "targets": "3 enemies",
+      "effect": "Increases DMG by 20%"
+    }
+  ],
+  "passive_skills": [
+    {
+      "name": "Primordial Mother",
+      "effect": "Max HP +3%, DEF +3%"
+    }
+  ],
+  "fate": [
+    {
+      "angels": ["Tsukuyomi"],
+      "fate_name": "Oriental Beauty",
+      "effect": "Max HP +1000"
+    },
+    {
+      "angels": ["Minotaur"],
+      "fate_name": "Wild Force",
+      "effect": "ATK UP 10%"
+    }
+  ],
+  "gallery": [
+    "Base Ungnyeo",
+    "Second Ungnyeo outfit",
+    "Third Ungnyeo outfit"
+  ],
+  "categories": []
+}

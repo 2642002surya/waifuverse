@@ -1,0 +1,33 @@
+{
+  "name": "Ember Spirit",
+  "image": "EmberSpirit.webp",
+  "unlock_level": 60,
+  "initial_quality": "SR",
+  "max_quality": "UR+5★",
+  "awakening_available": true,
+  "base_price": 300,
+  "static_attributes": {
+    "atk_percent": 12,
+    "atk_percent_max": 45
+  },
+  "exclusive_limit": {
+    "character": "Ember Dragon",
+    "effect": "True Damage Increase +20%",
+    "effect_max": "+75%"
+  },
+  "awakening_skills": {
+    "30": {
+      "name": "Ember Dragon Breath",
+      "description": "Inflict [Ignite] on all enemies, and UR Ember Dragon will grant all teammates an extra [Fire Shield]"
+    },
+    "60": {
+      "name": "Flames Bomb",
+      "description": "Releases one more attack"
+    },
+    "90": {
+      "name": "Twilight",
+      "description": "ATK+10%, CRIT+10% (Valid ONLY in Arena, Clash of Titans, Glory Arena, Clash of Guilds, Olympus Legend, Gods Twilight, and friends battle)"
+    }
+  },
+  "introduction": "It is said that the Ember Dragon is a girl who loves cleanliness. It is true, she always easier to deal with the dust left by the enemy. It's just that she is going to trouble the Storm Dragon again to clean the dust."
+}

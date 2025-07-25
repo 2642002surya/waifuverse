@@ -1,0 +1,72 @@
+{
+  "name": "Amaterasu",
+  "potential": 4575,
+  "main_attribute": "AGI",
+  "exclusive_relic": "Yasakani no Magatama",
+  "temple_description": "Amaterasu is the head of the three great gods in Japanese mythology, the ruler of Takamagahara, and the deification of the Sun.\nBorn from the eye of Izanagi, she is regarded as the supreme god of Shintoism.\nShe provided food and silk to Ame-no-Kumahito, allowing the world to gain sericulture and arable grains.",
+  "active_skills": [
+    {
+      "name": "Vibrating Jade Charm",
+      "damage": "130% P.DMG",
+      "targets": "6 enemies",
+      "effect": "50% chance to stun for 1 round"
+    },
+    {
+      "name": "Yata no Kagami",
+      "damage": "200% P.DMG",
+      "targets": "6 enemies",
+      "effect": "Inflicts ignite, causing enemy to lose 4% current HP for 3 rounds"
+    }
+  ],
+  "passive_skills": [
+    {
+      "name": "Amatsukami",
+      "effect": "ATK +5%, Leech +2%"
+    },
+    {
+      "name": "Serenity",
+      "effect": "Max HP +10%, ACC +10%"
+    },
+    {
+      "name": "Angel of Sun",
+      "effect": "Max HP +15%, CRIT +15%"
+    },
+    {
+      "name": "Apollo Protection",
+      "effect": "Max HP +24%, DMG reflects to source 12%"
+    }
+  ],
+  "fate": [
+    {
+      "angels": ["Fuxi", "Princess Bari"],
+      "fate_name": "Eastern Star",
+      "effect": "HP UP 20%"
+    },
+    {
+      "angels": ["Gaia", "Nuwa", "Odin"],
+      "fate_name": "Supreme Volition",
+      "effect": "HP UP 25%"
+    },
+    {
+      "angels": ["Enmusubi"],
+      "fate_name": "Order Controller",
+      "effect": "HP UP 15%"
+    },
+    {
+      "angels": ["Ra"],
+      "fate_name": "Blazing Sun",
+      "effect": "HP UP 15%"
+    }
+  ],
+  "gallery": [
+    "Base Amaterasu",
+    "Amaterasu Second Fashion Suit",
+    "Amaterasu Supreme Light",
+    "Sacred Palace - Amaterasu"
+  ],
+  "categories": [
+    "Archer",
+    "Characters",
+    "Red"
+  ]
+}

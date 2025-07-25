@@ -1,0 +1,80 @@
+{
+  "name": "Gaia",
+  "potential": {
+    "SSR": 4450
+  },
+  "main_attribute": "INT",
+  "exclusive_relic": "Miniature Universe",
+  "temple_description": "The Goddess of Earth in ancient Greek mythology and the most prominent of all Gods. \nHer divinity was immense, and she held a crucial position in the pantheon. \nAs the mother of gods, she created the primitive deities and the universe, \nmaking her the ancestor of all gods and humans.",
+  "active_skills": [
+    {
+      "name": "Avator",
+      "rarity": "SSR",
+      "damage": "150% M.DMG",
+      "target": "6 enemies",
+      "effect": "DMG is doubled if it crits."
+    },
+    {
+      "name": "Gaia's Sympathy",
+      "rarity": "SSR",
+      "damage": "480%, 360%, 240% M.DMG",
+      "target": "3 enemies with the highest ATK",
+      "effect": "Converts 20% of total DMG into self-healing."
+    }
+  ],
+  "passive_skills": [
+    {
+      "name": "Mother of Earth",
+      "effect": "ATK +5%, CRIT +5%"
+    },
+    {
+      "name": "Creator of Gods",
+      "effect": "Max HP +12%, EVA +12%"
+    },
+    {
+      "name": "God of Creation",
+      "effect": "ATK +15%, DEF +15%"
+    },
+    {
+      "name": "Source of Confusion",
+      "effect": "ATK +20%, M.RES +20%"
+    }
+  ],
+  "fate": [
+    {
+      "angels": ["Pandora", "Hera"],
+      "fate_name": "Holy Vengeance",
+      "effect": "ATK UP +15%"
+    },
+    {
+      "angels": ["Amaterasu", "Nuwa", "Odin"],
+      "fate_name": "Supreme Volition",
+      "effect": "HP UP +25%"
+    },
+    {
+      "angels": ["Chaos"],
+      "fate_name": "Origin of Chaos",
+      "effect": "HP UP +15%"
+    },
+    {
+      "angels": ["Valkyrie"],
+      "fate_name": "Aurora",
+      "effect": "ATK UP +15%"
+    },
+    {
+      "angels": ["Storm Dragon", "Himiko"],
+      "fate_name": "Shattered Void",
+      "effect": "Crit DMG UP +36%"
+    }
+  ],
+  "gallery": [
+    "Base Gaia",
+    "Second Angel Fashion - Gaia",
+    "Swimsuit Party - Gaia"
+  ],
+  "categories": [
+    "Red",
+    "Mage",
+    "Characters"
+  ]
+}

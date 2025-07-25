@@ -1,0 +1,26 @@
+{
+  "name": "Pandora's Box",
+  "rarity": "SR",
+  "max_quality": "UR+5",
+  "initial_quality": "SR",
+  "exclusive_limit": {
+    "class": "Mage",
+    "effect": "DMG Increase +8%",
+    "max_effect": "30% when Max"
+  },
+  "awakening": false,
+  "static_attribute": {
+    "effect": "DMG to Warrior +16%",
+    "max_effect": "60% when Max"
+  },
+  "source": "Abyss store OR using Orange Relic Fragment with probability to synthesis it. Not included in relic summoning pool.",
+  "introduction": "Even though humans know what dangers lie ahead, they still can't retain their desires, hence a lot of suffering in the wake of opening Pandora's Boxes. Humans are still opening Pandora's Boxes one after another. But never forget the last hope hidden in Pandora's Boxes.",
+  "enhance_awakening": "N/A",
+  "unlock_level": 60,
+  "image": "PandorasBox.webp",
+  "base_price": 4500,
+  "attributes": {
+    "dmg_increase_mage": 8,
+    "dmg_to_warrior": 16
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "name": "Nike",
+  "potential": 3600,
+  "main_attribute": "STR",
+  "exclusive_relic": "N/A",
+  "temple_description": "Nike was the Goddess of Victory in Greek mythology. She assisted Zeus to defeat the Titans and brought victory to the people.\nShe sometimes had wings and amazing speed, but otherwise possesses no other special powers. She was not only a symbol of victory in war, but also a messenger of good fortune.",
+  "active_skills": [
+    {
+      "name": "Heroic Charge",
+      "damage": "300% P.DMG",
+      "targets": "1 enemy with the highest HP percentage",
+      "effect": "Guaranteed crit if enemy’s HP is above 50%"
+    },
+    {
+      "name": "Final Stab",
+      "damage": "300% P.DMG",
+      "targets": "1 enemy with the lowest HP percentage",
+      "effect": "Guaranteed crit if enemy’s HP is below 50%"
+    }
+  ],
+  "passive_skills": [
+    {
+      "name": "Victory Pact",
+      "effect": "Max HP +3%, ATK +3%"
+    },
+    {
+      "name": "Angel of Luck",
+      "effect": "P.Crit DMG +10%, ATK +6%"
+    },
+    {
+      "name": "Titan Killer",
+      "effect": "ATK +12%, Leech +6%"
+    }
+  ],
+  "fate": [
+    {
+      "angels": ["Player"],
+      "fate_name": "Victory Heart",
+      "effect": "ATK UP 15%"
+    },
+    {
+      "angels": ["Jeanne d'Arc", "Nemesis"],
+      "fate_name": "Battle Cry",
+      "effect": "HP UP 20%"
+    },
+    {
+      "angels": ["Jeanne d'Arc"],
+      "fate_name": "Pledge Victory",
+      "effect": "HP UP 15%"
+    }
+  ],
+  "gallery": [
+    "Base Nike",
+    "Nike second fashion outfit",
+    "Nike third fashion outfit"
+  ],
+  "categories": [
+    "Warrior",
+    "Characters",
+    "Red"
+  ]
+}

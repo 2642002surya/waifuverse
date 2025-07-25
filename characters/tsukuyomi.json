@@ -1,0 +1,45 @@
+{
+  "name": "Tsukuyomi",
+  "potential": 2600,
+  "main_attribute": "AGI",
+  "exclusive_relic": "N/A",
+  "temple_description": "One of the Three Great Goddesses in Japanese mythology. She symbolizes the deification of the moon, the Goddess in charge of the night, and the ruler of the lunar eclipse.\nShe was a compatriot of the Great Goddess Amaterasu, having assisted her in knowing everything there is in the world. Later, due to an incident, she broke up with Amaterasu, and the Sun and the Moon have been separated ever since.",
+  "active_skills": [
+    {
+      "name": "Tsukuyomi",
+      "damage": "230% P.DMG",
+      "targets": "1 enemy",
+      "effect": "Inflicts [Ignite], causes the enemy to lose 4% of current HP for 2 rounds"
+    },
+    {
+      "name": "Moon God's Arrow",
+      "damage": "150% P.DMG (2 hits)",
+      "targets": "Random 2 enemies",
+      "effect": "Attacks 2 times randomly, each dealing 150% P.DMG"
+    }
+  ],
+  "passive_skills": [
+    {
+      "name": "God of Night Land",
+      "effect": "ATK +3%, CRIT +2%"
+    }
+  ],
+  "fate": [
+    {
+      "angels": ["Ungnyeo"],
+      "fate_name": "Oriental Beauty",
+      "effect": "Max HP +1000"
+    },
+    {
+      "angels": ["Gabriel"],
+      "fate_name": "Novice Village",
+      "effect": "Max HP +1000"
+    }
+  ],
+  "gallery": [
+    "Base Tsukuyomi",
+    "Second Tsukuyomi outfit",
+    "Third Tsukuyomi outfit"
+  ],
+  "categories": []
+}
