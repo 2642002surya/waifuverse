@@ -1,0 +1,21 @@
+{
+  "name": "Sky Dome",
+  "rarity": "SR",
+  "quality": "SR",
+  "max_quality": "UR+5",
+  "exclusive_limit": {
+    "class": "Warrior",
+    "effect": "Increase Heal +12%",
+    "max_effect": "Increase Heal +45%"
+  },
+  "awakening": false,
+  "static_attribute": {
+    "HP UP": "12%",
+    "max_HP_UP": "45%"
+  },
+  "introduction": "The sun, moon and stars all perish and regenerate under her dome. Hundreds of millions of lives on the earth are sheltering the reincarnation of the next generation.",
+  "enhance_awakening": "N/A",
+  "unlock_level": 60,
+  "base_price": 3000,
+  "image": "sky_dome.webp"
+}

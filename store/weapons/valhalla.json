@@ -1,0 +1,40 @@
+{
+  "name": "Valhalla",
+  "rarity": "SR",
+  "max_quality": "UR+5",
+  "quality": "SR",
+  "exclusive_limit": {
+    "class": "Valkyrie",
+    "effect": "ACC +20%",
+    "max_effect": "ACC +75%"
+  },
+  "awakening": true,
+  "static_attribute": {
+    "DMG_to_Mage": "24%",
+    "max_static_attribute": "90%"
+  },
+  "unlock_level": 60,
+  "introduction": "The dying warriors accepted Valkyrie's death kiss and were led to Valhalla. Only the brave death warriors can arrive to Valhalla in their dreams. Death warriors enjoying the most satisfying life of fighting during the day and resurrecting at night.",
+  "awakening_skills": [
+    {
+      "level": 30,
+      "name": "Light Spear",
+      "description": "Increase the coefficient of P.DMG by 20%, and increase the chance of [Steal] by 10%"
+    },
+    {
+      "level": 60,
+      "name": "Heroic Stab",
+      "description": "Deals an extra 280% P.DMG to the target if the target's current HP is lower than 30% of her Max HP"
+    },
+    {
+      "level": 90,
+      "name": "Twilight",
+      "description": "ATK+10%, HP+10% (Valid ONLY in Arena, Clash of Titans, Glory Arena, Clash of Guilds, Olympus Legend, Gods Twilight, Conqueror of Legends, and friends battle)"
+    }
+  ],
+  "attributes": {
+    "ACC": 20
+  },
+  "image": "valhalla.webp",
+  "base_price": 5000
+}

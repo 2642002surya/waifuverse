@@ -1,0 +1,17 @@
+{
+  "name": "Poseidon's Trident",
+  "filename": "PoseidonsTrident",
+  "initial_quality": "SR",
+  "max_quality": "UR+5",
+  "awakening": false,
+  "exclusive": {
+    "class": "Mage",
+    "effect": "Increased Heal +12%",
+    "max_effect": "45%"
+  },
+  "static_attributes": {
+    "base": "DMG to Warrior +16%",
+    "max": "60%"
+  },
+  "description": "Ordinary weapons: tearing the land, crushing rocks, and collapsing the earth. Poseidon's Trident: It can do what ordinary weapons can do. Also it can tear the universe and expose the underworld."
+}

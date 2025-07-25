@@ -1,0 +1,82 @@
+{
+  "name": "Horus",
+  "potential": {
+    "SSR+": 5300,
+    "UR": 6100,
+    "UR+": 6440
+  },
+  "main_attribute": "AGI",
+  "exclusive_relic": "The Eye of Horus",
+  "temple_description": "In ancient Egyptian mythology, Horus is the guardian angel of pharaohs, \na symbol of royal authority. \nShe is also the goddess of revenge, presiding over law and order. \nShe defeated Set, the cruel ruler of Egypt, and avenged her father. \nShe then became the new ruling god of Egypt. \nIt is said she loved her people more than herself.",
+  "active_skills": [
+    {
+      "name": "Judgment Claw (Divine Judgment)",
+      "rarity": "SSR+/UR",
+      "effect": "Deals 200% P.DMG to all enemies, decreasing their DMG Increase by 30%. \nAt the same time, bestows [Judgment] to all allies (Both effects last for 2 rounds). \n\n[Judgment]: When defeated, the enemy who defeated the bearer becomes the target. \nReduces the target's ATK by 15% of Horus's Max ATK until the end of the battle \n(Ignores Debuff RES; cannot be dispelled). This state can stack, up to 3 layers."
+    },
+    {
+      "name": "Punishment Eye (Divinity Eye)",
+      "rarity": "SSR+/UR",
+      "effect": "Deals 500% P.DMG to one enemy and dispels 1 buff."
+    }
+  ],
+  "passive_skills": [
+    {
+      "name": "Crown Guardian",
+      "effect": "Max HP +10%, DEF +10%"
+    },
+    {
+      "name": "Pyramid Protector",
+      "effect": "Max HP +15%, ATK +15%"
+    },
+    {
+      "name": "Child of Isis",
+      "effect": "P.RES +20%, M.RES +20%"
+    },
+    {
+      "name": "Vengeance Blade",
+      "effect": "ATK +35%"
+    }
+  ],
+  "exclusive_ur+_skill": {
+    "name": "Avenging Angel",
+    "effect": "When entering battle, bestows [Vengeance] to all allies (cannot be dispelled). \nWhen [Vengeance] is triggered, increases all allies' ATK and DEF by 40% \nof Horus's current ATK and DEF for 4 rounds (each angel can only trigger \nthis effect once; cannot be dispelled; cannot stack). \n\n[Vengeance]: When receiving fatal damage, the bearer continues to act in \nthe state of a soul (doesn't count as killed), remaining at 1 HP \n(cannot be healed afterward). \nAt the same time, she receives a shield equal to 1000% of Horus's Max ATK \n(cannot be dispelled; the shield cannot exceed twice the Max HP of Horus)."
+  },
+  "fate": [
+    {
+      "angels": ["Ra"],
+      "fate_name": "Divine Legacy",
+      "effect": "ATK UP +15%"
+    },
+    {
+      "angels": ["Anubis"],
+      "fate_name": "Live to Die",
+      "effect": "ATK UP +15%"
+    },
+    {
+      "angels": ["Icarus"],
+      "fate_name": "Eagle Wings",
+      "effect": "HP UP +15%"
+    },
+    {
+      "angels": ["Ra", "Nuit"],
+      "fate_name": "Heart of Egypt",
+      "effect": "HP UP +20%"
+    },
+    {
+      "angels": ["Amaterasu", "Thor", "Athena"],
+      "fate_name": "Angel of Destiny",
+      "effect": "ATK UP +25%"
+    }
+  ],
+  "gallery": [
+    "Base Horus",
+    "UR Radiance of Truth - Horus",
+    "UR+ Twilight Divinity - Horus"
+  ],
+  "categories": [
+    "Red",
+    "Archer",
+    "Characters"
+  ]
+}

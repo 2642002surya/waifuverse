@@ -1,0 +1,40 @@
+{
+  "name": "Surprise Wreath",
+  "id": "SurpriseWreath",
+  "rarity": "SR",
+  "max_quality": "UR+5",
+  "exclusive_limit": {
+    "character": "Xmas Angel",
+    "effect": "Crit DMG UP +20%",
+    "max_effect": "Crit DMG UP +75%"
+  },
+  "awakening": true,
+  "static_attribute": {
+    "HP UP": "12%",
+    "max_value": "45%"
+  },
+  "introduction": "The Xmas Angel ask about what the surprise is? The Xmas Angel stared at the wreath in her hand and thought, she seemed to be excited when she discovered a new world of flowers and plants. She is still thinking, looking for an answer forever.",
+  "enhance_awakening": {
+    "exclusive_limited": "Xmas Angel",
+    "skills": [
+      {
+        "level": 30,
+        "name": "Frozen Snow (Frozen field)",
+        "description": "Increase the coefficient of P.DMG by 40%"
+      },
+      {
+        "level": 60,
+        "name": "Arrow of Surprise (Surprise Arrow)",
+        "description": "Deals P.DMG to one more enemy"
+      },
+      {
+        "level": 90,
+        "name": "Twilight",
+        "description": "ATK+10%, CRIT+10% (Valid ONLY in Arena, Clash of Titans, Glory Arena, Clash of Guilds, Olympus Legend, Gods Twilight, Conqueror of Legends, and friends battle)"
+      }
+    ]
+  },
+  "unlock_level": 60,
+  "base_price": 4800,
+  "image": "SurpriseWreath.webp"
+}

@@ -1,0 +1,58 @@
+{
+  "name": "Princess Bari",
+  "potential": 3550,
+  "main_attribute": "AGI",
+  "exclusive_relic": "N/A",
+  "temple_description": "A princess in ancient Korean mythology, she was abandoned at birth and became immortal under the guidance of Sakyamuni.\nWhen she learned that her biological parents fell ill, she went to the immortal in Wu Mountain in order to ask for medicine which could bring them back to life. Later, she united with the immortal who gave her the medicine and became the originator of the Korean Mudang, in charge of controlling life and death.",
+  "active_skills": [
+    {
+      "name": "Nether Shot",
+      "damage": "80% P.DMG",
+      "targets": "6 enemies (random)",
+      "effect": "50% chance to inflict [Blind], reduces 60% ACC of enemy for 2 rounds"
+    },
+    {
+      "name": "Nether Drugs",
+      "damage": "120%-300% P.DMG",
+      "targets": "6 enemies",
+      "effect": "For each fallen ally, DMG is increased by 60%, stacked up to 300%"
+    }
+  ],
+  "passive_skills": [
+    {
+      "name": "Witchcraft",
+      "effect": "ATK +4%, ACC +4%"
+    },
+    {
+      "name": "Soul Guider",
+      "effect": "Max HP +8%, EVA +8%"
+    },
+    {
+      "name": "Netherlord",
+      "effect": "ATK +12%, Leech +3%"
+    }
+  ],
+  "fate": [
+    {
+      "angels": ["Player"],
+      "fate_name": "King's Outset",
+      "effect": "HP UP 20%"
+    },
+    {
+      "angels": ["Fuxi", "Amaterasu"],
+      "fate_name": "Eastern Star",
+      "effect": "HP UP 20%"
+    },
+    {
+      "angels": ["Izu Dancer"],
+      "fate_name": "Graceful Dance",
+      "effect": "HP UP 15%"
+    }
+  ],
+  "gallery": [
+    "Base Princess Bari",
+    "Bari third fashion suit",
+    "Bari Swimsuit Party"
+  ],
+  "categories": []
+}

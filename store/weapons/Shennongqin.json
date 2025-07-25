@@ -1,0 +1,25 @@
+{
+  "name": "Shennongqin",
+  "initial_quality": "R",
+  "max_quality": "SSR+",
+  "unlock_level": 60,
+  "exclusive_limit": "None",
+  "awakening_available": false,
+  "base_price": 2500,
+  "exclusive_buff": {
+    "target": "Archer",
+    "stat": "DMG",
+    "initial_bonus": 7.5,
+    "max_bonus": 24.0
+  },
+  "static_attributes": [
+    {
+      "type": "DMG to Archer",
+      "value": 7.5
+    }
+  ],
+  "description": "Shennongqin has five strings on it: Yue, Gong, Jiao, Zheng ,Yu. The sound of it can express the virtue of heaven and earth and bring happiness to people.",
+  "image": "Shennongqin.png",
+  "enhancement_info": "N/A",
+  "awakening_info": "N/A"
+}

@@ -1,0 +1,84 @@
+{
+  "name": "Hera",
+  "potential": {
+    "SSR+": 5200,
+    "UR": 6000,
+    "UR+": 6333
+  },
+  "main_attribute": "INT",
+  "exclusive_relic": "Supreme Scepter",
+  "temple_description": "Hera was the third queen of Olympus in ancient Greek mythology and one of the \nwives of Zeus. She was the Goddess of Marriage and Fertility, and one of the \ntwelve gods of Olympus. \nShe was the incarnation of natural forces and possessed supreme divine power \nand authority in Olympus. Whenever she traveled, she was accompanied by \npowerful thunder and lightning.",
+  "active_skills": [
+    {
+      "name": "Song of War (Hero Hymn)",
+      "rarity": "SSR+/UR",
+      "effect": "Dispels all debuffs on 2 angels with the highest ATK and inflicts an \n[Encourage] state to all allies, increasing their DEF by [100% * Hera's DEF] \nand their ATK by [60% * Hera's DEF] for 3 rounds."
+    },
+    {
+      "name": "For the Throne (Supreme Glory)",
+      "rarity": "SSR+/UR",
+      "effect": "Deals 150% M.DMG to 6 enemies. \n- If the enemy’s ATK is lower than Hera’s, DMG is doubled. \n- Heals the ally with the lowest HP by 50% of Hera's ATK and dispels all debuffs."
+    }
+  ],
+  "passive_skills": [
+    {
+      "name": "Golden Queen",
+      "effect": "ATK +10%, DEF +10%"
+    },
+    {
+      "name": "Ruler",
+      "effect": "Max HP +15%, Leech +6%"
+    },
+    {
+      "name": "Revenge",
+      "effect": "Debuff RES +50%"
+    },
+    {
+      "name": "White-armed",
+      "effect": "ATK +25%, DEF +25%"
+    }
+  ],
+  "exclusive_ur+_skill": {
+    "name": "Soul Calming Wind",
+    "effect": "When Hera acts, she dispels all buffs from 1 random enemy."
+  },
+  "fate": [
+    {
+      "angels": ["Pandora", "Gaia"],
+      "fate_name": "Holy Vengeance",
+      "effect": "ATK UP +15%"
+    },
+    {
+      "angels": ["Erebus", "Heimdall"],
+      "fate_name": "Invincible Power",
+      "effect": "HP UP +20%"
+    },
+    {
+      "angels": ["Michael", "Enmusubi", "Icarus"],
+      "fate_name": "Justice Sanctions",
+      "effect": "ATK UP +25%"
+    },
+    {
+      "angels": ["Ra"],
+      "fate_name": "Top Throne",
+      "effect": "HP UP +15%"
+    },
+    {
+      "angels": ["Heimdall"],
+      "fate_name": "Eternal Guardian",
+      "effect": "ATK UP +15%"
+    }
+  ],
+  "gallery": [
+    "Hera's third fashion outfit",
+    "Hera's fourth fashion outfit",
+    "Hera's wedding dress outfit",
+    "UR Supreme Power - Hera",
+    "UR+ Supreme Queen - Hera"
+  ],
+  "categories": [
+    "Red",
+    "Mage",
+    "Characters"
+  ]
+}

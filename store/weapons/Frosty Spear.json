@@ -1,0 +1,36 @@
+{
+  "name": "Frosty Spear",
+  "image": "FrostySpear",
+  "initial_quality": "SR",
+  "max_quality": "UR+5★",
+  "exclusive_limit": {
+    "class": "Frost Dragon",
+    "effect": "Effect ACC +20%",
+    "effect_max": "Effect ACC +75%"
+  },
+  "awakening": true,
+  "static_attributes": {
+    "HP UP": "16%",
+    "HP UP Max": "60%"
+  },
+  "awakening_skills": [
+    {
+      "level": 30,
+      "name": "Frost Dragon Breath (Frozen Blizzard)",
+      "description": "Increase the coefficient of M.DMG by 20%, and the chance of [freeze] enemies increases by 15%"
+    },
+    {
+      "level": 60,
+      "name": "Cold Guardian (Aegis of Ice)",
+      "description": "Apply [Ice Armor] to all teammates for 3 rounds"
+    },
+    {
+      "level": 90,
+      "name": "Twilight",
+      "description": "HP+10%, Speed+100 (Valid ONLY in Arena, Clash of Titans, Glory Arena, Clash of Guilds, Olympus Legend, Gods Twilight, and friends battle)"
+    }
+  ],
+  "unlock_level": 60,
+  "base_price": 600,
+  "introduction": "Away from the boredom of the sky, away from the noise on the ground. The Frost dragon is lying quietly in the deeping ice cave. This silence makes the mind deeper and gives the ice spear the power of fantasy."
+}

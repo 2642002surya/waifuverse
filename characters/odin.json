@@ -1,0 +1,76 @@
+{
+  "name": "Odin",
+  "potential": 4600,
+  "main_attribute": "AGI",
+  "exclusive_relic": "Gangnir",
+  "temple_description": "Odin was the king of Aesir gods in Norse mythology. She was in charge of prophecy, kingship, wisdom, healing, magic, poetry, war and death.\nShe was the most powerful existence in Asgard's realm and possesses supreme power and strength, and wields a multitude of weapons, one of which is the Eternal Spear, Gangnir.",
+  "active_skills": [
+    {
+      "name": "Spear of Eternity",
+      "damage": "3 hits × 200% P.DMG",
+      "targets": "Random targets",
+      "effect": "Deals double damage to [Ignite] targets"
+    },
+    {
+      "name": "Death Storm",
+      "damage": "230% P.DMG + 30% True DMG",
+      "targets": "3 enemies in back row",
+      "effect": "Deals additional True DMG"
+    }
+  ],
+  "passive_skills": [
+    {
+      "name": "Brainstorm",
+      "effect": "Max HP +5%, Leech +2%"
+    },
+    {
+      "name": "Angel of Storm",
+      "effect": "ATK +10%, CRIT +10%"
+    },
+    {
+      "name": "Many-faced God",
+      "effect": "Max HP +15%, DEF +15%"
+    },
+    {
+      "name": "Lord of Gods",
+      "effect": "ATK +20%, ACC +20%"
+    }
+  ],
+  "fate": [
+    {
+      "angels": ["Player"],
+      "fate_name": "God's Inheritance",
+      "effect": "ATK UP 25%"
+    },
+    {
+      "angels": ["Idun", "Valkyrie"],
+      "fate_name": "Ragnarok Witness",
+      "effect": "HP UP 20%"
+    },
+    {
+      "angels": ["Gaia", "Amaterasu", "Nuwa"],
+      "fate_name": "Supreme Volition",
+      "effect": "HP UP 25%"
+    },
+    {
+      "angels": ["Heimdall"],
+      "fate_name": "Pure Power",
+      "effect": "HP UP 15%"
+    },
+    {
+      "angels": ["Ember Dragon", "Ra"],
+      "fate_name": "Emberbringer",
+      "effect": "ATK UP 20%"
+    }
+  ],
+  "gallery": [
+    "Base Odin",
+    "Odin Second Angel Fashion",
+    "Odin Third Angel Fashion"
+  ],
+  "categories": [
+    "Archer",
+    "Characters",
+    "Red"
+  ]
+}

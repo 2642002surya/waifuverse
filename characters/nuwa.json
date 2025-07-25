@@ -1,0 +1,74 @@
+{
+  "name": "Nuwa",
+  "potential": 4625,
+  "main_attribute": "INT",
+  "exclusive_relic": "Five-color stone",
+  "temple_description": "Nuwa was one of the originators of the Chinese civilization, and the Goddess of Blessings. She sculpted humans from clay, created human society, and established the marriage system.\nLater, when the sky collapsed and the earth sank, Nuwa melted the Five-color stone to mend the sky. Thereafter, she was known as the Mother of Earth, and was a Goddess that was worshipped widely by mankind for millennia.",
+  "active_skills": [
+    {
+      "name": "Strike of Nuwa",
+      "damage": "185% M.DMG",
+      "targets": "6 enemies",
+      "effect": "If enemy HP < 50%, damage is doubled"
+    },
+    {
+      "name": "Sky-mending Colors",
+      "damage": "Heals 80% of self ATK",
+      "targets": "6 allies",
+      "effect": "If ally HP < 50%, healing is doubled"
+    }
+  ],
+  "passive_skills": [
+    {
+      "name": "Human Ancestor",
+      "effect": "Max HP +5%, CRIT +5%"
+    },
+    {
+      "name": "Ancient Sages",
+      "effect": "ATK +10%, EVA +10%"
+    },
+    {
+      "name": "God of Welfare",
+      "effect": "Max HP +15%, DEF +15%"
+    },
+    {
+      "name": "Queen's Rule",
+      "effect": "ATK +24%"
+    }
+  ],
+  "fate": [
+    {
+      "angels": ["Fuxi"],
+      "fate_name": "Civilization Awakening",
+      "effect": "ATK UP 15%"
+    },
+    {
+      "angels": ["Gaia", "Amaterasu", "Odin"],
+      "fate_name": "Supreme Volition",
+      "effect": "HP UP 25%"
+    },
+    {
+      "angels": ["Hades", "Chaos"],
+      "fate_name": "Life Controller",
+      "effect": "HP UP 20%"
+    },
+    {
+      "angels": ["Cupid"],
+      "fate_name": "Life Liquid",
+      "effect": "ATK UP 15%"
+    }
+  ],
+  "gallery": [
+    "Base Nuwa",
+    "Nuwa Second Angel Fashion",
+    "Nuwa Third Angel Fashion",
+    "Nuwa Forth Angel Fashion",
+    "Nuwa Fifth Angel Fashion",
+    "Nuwa Swimsuit"
+  ],
+  "categories": [
+    "Mage",
+    "Characters",
+    "Red"
+  ]
+}

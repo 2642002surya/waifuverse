@@ -1,0 +1,85 @@
+{
+  "name": "Icarus",
+  "potential": {
+    "SSR+": 5160,
+    "UR": 5960,
+    "UR+": 6290
+  },
+  "main_attribute": "STR",
+  "exclusive_relic": "Destiny Wheel",
+  "temple_description": "In Greek mythology, Icarus is the descendant of Daedalus. When she and \nDaedalus used wax wings to escape from Crete Island, they flew too high, \nand their wings were melted by the Sun, resulting in their fall into the sea. \nThat legendary event deified her, granting her divine abilities beyond mortal reach.",
+  "active_skills": [
+    {
+      "name": "Holy Wing (Newborn Feather)",
+      "rarity": "SSR+/UR",
+      "effect": "Deals 200% P.DMG to 6 enemies. \n- If the target's HP is above 50%, deals double DMG. \n- After attack, if the target's HP falls below 50%, applies [Ignite] for 2 rounds."
+    },
+    {
+      "name": "Chain of Light (Heart-locking Chain)",
+      "rarity": "SSR+/UR",
+      "effect": "Deals 200% P.DMG to 6 enemies. \n- If the target's HP is below 50%, deals double DMG. \n- If the target's HP remains above 50% after the attack, applies [Pierce], \nreducing their P.RES and M.RES by 50% for 2 rounds."
+    }
+  ],
+  "passive_skills": [
+    {
+      "name": "Race the Sun",
+      "effect": "ATK +10%, CRIT +10%"
+    },
+    {
+      "name": "Unreal Feather",
+      "effect": "Max HP +15%, Leech +10%"
+    },
+    {
+      "name": "Ingenuity",
+      "effect": "Max HP +25%, DEF +25%"
+    },
+    {
+      "name": "Heart of Freedom",
+      "effect": "ATK +35%"
+    }
+  ],
+  "exclusive_ur+_skill": {
+    "name": "Feather of Dawn",
+    "effect": "Upon entering battle, Icarus gains a non-dispellable shield equal \nto 100% of her Max HP for 2 rounds. \nEach round, her DMG increases by [20% * current round number] \n(up to a max of 200%) for 1 round."
+  },
+  "fate": [
+    {
+      "angels": ["Player"],
+      "fate_name": "Wings of Indomitability",
+      "effect": "HP UP +30%"
+    },
+    {
+      "angels": ["Valkyrie"],
+      "fate_name": "Live to Die",
+      "effect": "HP UP +15%"
+    },
+    {
+      "angels": ["Michael", "Enmusubi", "Hera"],
+      "fate_name": "Justice Sanctions",
+      "effect": "ATK UP +25%"
+    },
+    {
+      "angels": ["Ra"],
+      "fate_name": "Sun's Pick",
+      "effect": "ATK UP +15%"
+    },
+    {
+      "angels": ["Chaos"],
+      "fate_name": "Evil Angel",
+      "effect": "ATK UP +15%"
+    }
+  ],
+  "gallery": [
+    "Base Icarus",
+    "Icarus Third Fashion Outfit",
+    "Icarus Swimsuit Party",
+    "Sacred Palace Icarus",
+    "UR Newborn Luster - Icarus",
+    "UR+ Flawless Wings - Icarus"
+  ],
+  "categories": [
+    "Red",
+    "Warrior",
+    "Characters"
+  ]
+}

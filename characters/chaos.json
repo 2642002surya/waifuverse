@@ -1,0 +1,91 @@
+{
+  "name": "Chaos",
+  "potential": {
+    "SSR+": 5200,
+    "UR": 6000,
+    "UR+": 6333
+  },
+  "main_attribute": "AGI",
+  "exclusive_relic": "Chaos Spirit",
+  "temple_description": "Chaos was a primordial god in Greek mythology with immense divine power. \nShe embodied the original rules, time, and space, serving as the beginning and creator of the world.\nIn addition, she was the first carrier of the Greek Gods' bundle.",
+  "active_skills": [
+    {
+      "name": "Order Controller",
+      "rarity": "SSR+/UR",
+      "damage": "160% P.DMG",
+      "targets": "6 enemies",
+      "effect": "If the target's Max HP is lower than Chaos, apply [Stun] for 1 round."
+    },
+    {
+      "name": "Ragnarok",
+      "rarity": "SSR+/UR",
+      "damage": "160% P.DMG",
+      "targets": "6 enemies",
+      "effect": "Deals an extra 7% of Max HP as True DMG."
+    }
+  ],
+  "passive_skills": [
+    {
+      "name": "God of Primary",
+      "effect": "Max HP +10%, DEF +10%"
+    },
+    {
+      "name": "God of Chaos",
+      "effect": "M.RES +15%, P.RES +15%"
+    },
+    {
+      "name": "God of Void",
+      "effect": "ATK +25%, Leech +12%"
+    },
+    {
+      "name": "God of Dark",
+      "effect": "Max HP +35%"
+    }
+  ],
+  "exclusive_ur+_skill": [
+    {
+      "name": "Chaos Invasion",
+      "effect": "When Chaos is in action, deals True Damage equal to 2% of Chaos' Max HP to all enemies."
+    }
+  ],
+  "fate": [
+    {
+      "angels": ["Gaia"],
+      "fate_name": "Origin of Chaos",
+      "effect": "HP UP 15%"
+    },
+    {
+      "angels": ["Nuwa", "Hades"],
+      "fate_name": "Life Controller",
+      "effect": "HP UP 20%"
+    },
+    {
+      "angels": ["Ra", "Cupid", "Himiko"],
+      "fate_name": "Desert City",
+      "effect": "ATK UP 25%"
+    },
+    {
+      "angels": ["Icarus"],
+      "fate_name": "Evil Angel",
+      "effect": "ATK UP 15%"
+    },
+    {
+      "angels": ["Himiko"],
+      "fate_name": "Ghost Domination",
+      "effect": "HP UP 15%"
+    }
+  ],
+  "gallery": [
+    "Base Chaos",
+    "Chaos Fourth Fashion Outfit",
+    "Chaos Fifth Fashion Outfit",
+    "Chaos Swimsuit Party",
+    "UR Original Creation",
+    "UR+ Primeval Chaos-Chaos"
+  ],
+  "categories": [
+    "Red",
+    "Archer",
+    "Characters"
+  ]
+}

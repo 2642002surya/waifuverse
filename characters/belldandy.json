@@ -1,0 +1,48 @@
+{
+    "name": "Belldandy",
+    "potential": 3225,
+    "main_attribute": "INT",
+    "exclusive_relic": "N/A",
+    "temple_description": "She was the first god at the beginning of the universe and controlled the fate of all gods, \nincluding the twelve gods of Titan and the twelve gods of Olympus. \nShe also controlled the future of every mortal.\nHer divine power is immense, yet she follows the principle of never interfering arbitrarily with fate, \nchoosing not to reveal her true power.",
+    "active_skills":
+      [
+        {
+          "name": "Trauma",
+          "damage": "120% M.DMG",
+          "targets": "3 enemies",
+          "effect": "Damage is doubled if the enemy is affected by a buff"
+        },
+        {
+          "name": "Arcane Bolt",
+          "damage": "110% M.DMG per hit",
+          "targets": "Attacks 3 times randomly",
+          "effect": "Can hit the same enemy multiple times"
+        }
+      ],
+    "passive_skills":
+      [
+        { "name": "God of Present", "effect": "ATK +4%, CRIT +4%" },
+        { "name": "God of Fate", "effect": "Max HP +8%, M.RES +8%" }
+      ],
+    "fate":
+      [
+        {
+          "angels": ["Nephthys", "Geb", "Xiwangmu"],
+          "fate_name": "Origin of Life",
+          "effect": "ATK UP 20%"
+        },
+        {
+          "angels": ["Iris"],
+          "fate_name": "Blessing of Fate",
+          "effect": "ATK UP 15%"
+        }
+      ],
+    "gallery":
+      [
+        "Base Belldandy",
+        "Second Belldandy Fashion Outfit",
+        "Third Belldandy Fashion Outfit"
+      ],
+    "categories": ["Mage", "Characters", "Purple"]
+  }
+  

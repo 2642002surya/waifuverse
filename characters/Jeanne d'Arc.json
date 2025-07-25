@@ -1,0 +1,63 @@
+{
+  "name": "Jeanne d'Arc",
+  "potential": {
+    "SSR": 3700
+  },
+  "main_attribute": "STR",
+  "exclusive_relic": "N/A",
+  "temple_description": "Jeanne d'Arc was originally a mere human, but her unwavering faith and \nlegendary trials elevated her to godhood. \nAt the age of 13, she received divine revelation from Saint Michael, \nSaint Margaret, and Saint Catherine under a great tree near her village. \nDespite facing an unjust trial and execution, her sainthood was later \nrecognized, immortalizing her as a divine warrior.",
+  "active_skills": [
+    {
+      "name": "Heavenly Revelation",
+      "rarity": "SSR",
+      "effect": "Deals 180% P.DMG to 3 enemies in the back row. \nIf the enemy is affected by any debuff, the damage is doubled."
+    },
+    {
+      "name": "Divination",
+      "rarity": "SSR",
+      "effect": "Deals 400% P.DMG to the enemy with the lowest HP and enters [Frenzy] state. \nWhile in [Frenzy], Jeanne’s basic attacks are guaranteed to crit, and \nshe becomes immune to all debuffs for 3 rounds."
+    }
+  ],
+  "passive_skills": [
+    {
+      "name": "Fallen Angel",
+      "effect": "Max HP +4%, DEF +4%"
+    },
+    {
+      "name": "Lord of the Stars",
+      "effect": "ATK +8%, CRIT +8%"
+    },
+    {
+      "name": "Venus Twinkling",
+      "effect": "Max HP +15%"
+    }
+  ],
+  "fate": [
+    {
+      "angels": ["Nike", "Nemesis"],
+      "fate_name": "Battle Cry",
+      "effect": "HP UP +20%"
+    },
+    {
+      "angels": ["Idun"],
+      "fate_name": "Pure Heart",
+      "effect": "ATK UP +15%"
+    },
+    {
+      "angels": ["Nike"],
+      "fate_name": "Pledge Victory",
+      "effect": "HP UP +15%"
+    }
+  ],
+  "gallery": [
+    "Base Jeanne d'Arc",
+    "Jeanne d'Arc Second Fashion Outfit",
+    "Jeanne d'Arc Third Fashion Outfit",
+    "Pool Party - Jeanne d'Arc"
+  ],
+  "categories": [
+    "Orange",
+    "Warrior",
+    "Characters"
+  ]
+}

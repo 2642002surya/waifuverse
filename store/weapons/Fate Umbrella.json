@@ -1,0 +1,39 @@
+{
+  "name": "Fate Umbrella",
+  "id": "FateU",
+  "initial_quality": "SR",
+  "max_quality": "UR+5",
+  "exclusive_to": "Enmusubi",
+  "exclusive_effect": {
+    "description": "Effect ACC +20%",
+    "max_description": "Effect ACC +75%"
+  },
+  "awakening": true,
+  "static_attribute": {
+    "attribute": "HP UP",
+    "value": "12%",
+    "max_value": "45%"
+  },
+  "unlock_level": 60,
+  "base_price": 3000,
+  "arena_valid": true,
+  "introduction": "It's raining heavily, and you are worried about whether or not an umbrella will be enough to keep her from getting wet. Enmusubi disagrees, a fate umbrella is enough. This is the rain of love. Rain is hugging her to bring each other closer.",
+  "awakening_skills": [
+    {
+      "level": 30,
+      "name": "Affection (Thrilling tenderness)",
+      "description": "All teammates will be granted an extra shield by 10% of Enmusubi's Max ATK for 1 round if the last position angel in your team takes any buff effect from Enmusubi."
+    },
+    {
+      "level": 60,
+      "name": "Dizzy (Love whirlpool)",
+      "description": "Increase the coefficient of M.DMG by 15%"
+    },
+    {
+      "level": 90,
+      "name": "Twilight",
+      "description": "ATK+10%, HP+10% (Valid ONLY in Arena, Clash of Titans, Glory Arena, Clash of Guilds, Olympus Legend, Gods Twilight, and friends battle)"
+    }
+  ],
+  "image": "Fate Umbrella - main.webp"
+}

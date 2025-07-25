@@ -1,0 +1,26 @@
+{
+  "name": "Starfire Stone",
+  "rarity": "SR",
+  "max_quality": "UR+5",
+  "quality": "SR",
+  "exclusive_limit": {
+    "class": "Mage",
+    "effect": "True Damage Increase +20%",
+    "max_effect": "True Damage Increase +75%"
+  },
+  "awakening": false,
+  "static_attribute": {
+    "effect": "DMG Increase +10%",
+    "max_effect": "DMG Increase +37.5%"
+  },
+  "introduction": "Under the uncanny work of nature, this Starfire Stone has continued the Chinese civilization. Lie down in the jungle and mountains when calm, and burst into starlight sparks when fierce. It is both a continuation of civilization and a dangerous terminator.",
+  "enhance_awakening": "N/A",
+  "unlock_level": 60,
+  "attributes": {
+    "atk": 150,
+    "crit": 12,
+    "speed": 8
+  },
+  "base_price": 4500,
+  "image": "starfire_stone.webp"
+}

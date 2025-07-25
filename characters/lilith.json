@@ -1,0 +1,53 @@
+{
+  "name": "Lilith",
+  "potential": {
+    "SSR": 3075
+  },
+  "main_attribute": "INT",
+  "exclusive_relic": "N/A",
+  "temple_description": "Legend has it that Lilith was the first woman created from clay, \nmaking her Adam’s original wife. However, due to a conflict with Adam, \nshe left the Garden of Eden. \nAfter the infamous War of Angels, where Lucifer was cast down, \nLilith chose to follow him into the depths of Hell, \nembracing the chaos and darkness.",
+  "active_skills": [
+    {
+      "name": "Infinite Chaos",
+      "rarity": "SSR",
+      "effect": "Deals 100% M.DMG to 3 enemies in the front row and inflicts \n[Ignite] effect, dealing an additional 80% M.DMG for 2 rounds. \n(Damage output scales based on enemy's DEF)."
+    },
+    {
+      "name": "Eternal Void",
+      "rarity": "SSR",
+      "effect": "Deals 120% M.DMG to 3 enemies in the front row. \nIf the enemies are affected by [Ignite], the damage is doubled."
+    }
+  ],
+  "passive_skills": [
+    {
+      "name": "God of Chaos",
+      "effect": "ATK +4%, CRIT +3%"
+    },
+    {
+      "name": "The Genesis of Gods",
+      "effect": "Max HP +8%, ACC +8%"
+    }
+  ],
+  "fate": [
+    {
+      "angels": ["Geb"],
+      "fate_name": "Bloodthirsty Fangs",
+      "effect": "HP UP +15%"
+    },
+    {
+      "angels": ["Nyx"],
+      "fate_name": "Devil's Whisper",
+      "effect": "ATK UP +15%"
+    }
+  ],
+  "gallery": [
+    "Base Lilith",
+    "Lilith Second Fashion Outfit",
+    "Pool Party - Lilith"
+  ],
+  "categories": [
+    "Mage",
+    "Purple",
+    "Characters"
+  ]
+}

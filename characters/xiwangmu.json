@@ -1,0 +1,41 @@
+{
+  "name": "Xiwangmu",
+  "potential": 3250,
+  "main_attribute": "AGI",
+  "exclusive_relic": "",
+  "temple_description": "Xiwangmu was the supreme god of Taoism with powerful divinity, living in Kunlun Mountain. She controlled and reconciled Yin and Yang in the world. She would grant extra life to good men and women. Highly respected and believed by mankind, every year on her birthday, all gods gather in Yaochi to celebrate the Peach Feast.",
+  "active_skills": [
+    {
+      "name": "Matronage",
+      "damage": "N/A",
+      "targets": "N/A",
+      "effect": "Effect details not provided."
+    },
+    {
+      "name": "Meteor Shower",
+      "damage": "N/A",
+      "targets": "N/A",
+      "effect": "Effect details not provided."
+    }
+  ],
+  "passive_skills": [
+    {
+      "name": "Queen of Nymph",
+      "effect": "Effect details not provided."
+    },
+    {
+      "name": "Ever Life",
+      "effect": "Effect details not provided."
+    }
+  ],
+  "exclusive_ur_plus_skills": [],
+  "fate": [],
+  "gallery": [
+    "Base Xiwangmu"
+  ],
+  "categories": [
+    "Characters",
+    "Green",
+    "Archer"
+  ]
+}

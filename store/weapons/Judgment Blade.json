@@ -1,0 +1,34 @@
+{
+  "name": "Judgment Blade",
+  "image": "JudgmentBlade",
+  "initial_quality": "SR",
+  "max_quality": "UR+5",
+  "exclusive_for": {
+    "name": "Michael",
+    "effect": "Crit DMG UP +20%",
+    "effect_max": "Crit DMG UP +75%"
+  },
+  "awakening": true,
+  "static_attributes": {
+    "ATK": "+10%",
+    "ATK_max": "+37.5%"
+  },
+  "awakening_skills": [
+    {
+      "level": 30,
+      "name": "The will of celestial",
+      "description": "Increase the coefficient of M.DMG by 50%"
+    },
+    {
+      "level": 60,
+      "name": "Sanction of Light",
+      "description": "Increase the coefficient of M.DMG by 80%"
+    },
+    {
+      "level": 90,
+      "name": "Twilight",
+      "description": "ATK+10%, Crit DMG +20% (Valid ONLY in Arena, Clash of Titans, Glory Arena, Clash of Guilds, Olympus Legend, Gods Twilight, and friends battle)"
+    }
+  ],
+  "introduction": "No one can escape her judgment, even if you are the king of hell. After forty-nine years, even the time is longer than this, Michael will not give up the trial of darkness."
+}

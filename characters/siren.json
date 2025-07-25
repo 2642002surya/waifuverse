@@ -1,0 +1,58 @@
+{
+  "name": "Siren",
+  "potential": 3625,
+  "main_attribute": "INT",
+  "exclusive_relic": "N/A",
+  "temple_description": "Siren was the daughter of the river god Ekrous, a beautiful fairy born from his blood. Due to her defeat by Muse in a music contest, her wings were removed by Muse, rendering her unable to fly.\nAfter losing her wings, she often transforms into a mermaid and lures nearby sailors to disaster with her enchanting music and singing voice.",
+  "active_skills": [
+    {
+      "name": "Surging Waves",
+      "damage": "220% M.DMG",
+      "targets": "3 enemies",
+      "effect": "80% chance to [Poison], causing them to lose 3% of current HP for 4 rounds"
+    },
+    {
+      "name": "Neptune's Roar",
+      "damage": "180% M.DMG",
+      "targets": "3 enemies",
+      "effect": "If the target is under [Poison], they will receive [Stun] for 1 round"
+    }
+  ],
+  "passive_skills": [
+    {
+      "name": "Body of the Demonslord",
+      "effect": "ATK +4.5%, ACC +4%"
+    },
+    {
+      "name": "Master of Water",
+      "effect": "Max HP +8%, Leech +4%"
+    },
+    {
+      "name": "Underwater",
+      "effect": "Max HP +12%, DEF +12%"
+    }
+  ],
+  "fate": [
+    {
+      "angels": ["Medusa", "Pandora"],
+      "fate_name": "Origin of Degeneration",
+      "effect": "HP UP 20%"
+    },
+    {
+      "angels": ["Poseidon"],
+      "fate_name": "Power of Sea",
+      "effect": "HP UP 15%"
+    },
+    {
+      "angels": ["Idun"],
+      "fate_name": "Forever Young",
+      "effect": "ATK UP 15%"
+    }
+  ],
+  "gallery": [
+    "Base Siren",
+    "Siren second fashion outfit",
+    "Siren third fashion outfit"
+  ],
+  "categories": []
+}

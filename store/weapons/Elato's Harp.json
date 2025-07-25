@@ -1,0 +1,17 @@
+{
+  "name": "Elato's Harp",
+  "id": "ElatosHarp",
+  "rarity": "N",
+  "max_rarity": "SR+",
+  "awakening": false,
+  "exclusive_limit": null,
+  "attributes": {
+    "warrior_dmg": 4
+  },
+  "max_attributes": {
+    "warrior_dmg": 10
+  },
+  "introduction": "This is a story about art and joy, and the harp silently recounts this memory in its own way.",
+  "base_price": 800,
+  "image": "ElatosHarp.webp"
+}

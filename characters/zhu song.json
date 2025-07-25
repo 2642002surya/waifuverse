@@ -1,0 +1,38 @@
+{
+  "name": "Zhu Rong",
+  "potential": 4200,
+  "main_attribute": "INT",
+  "exclusive_relic": "",
+  "temple_description": "",
+  "active_skills": [
+    {
+      "name": "Firelord's Wrath",
+      "damage": "",
+      "targets": "",
+      "effect": ""
+    },
+    {
+      "name": "Unbridled Fury",
+      "damage": "",
+      "targets": "",
+      "effect": ""
+    }
+  ],
+  "passive_skills": [
+    {
+      "name": "Fiery Emperor",
+      "effect": ""
+    },
+    {
+      "name": "God of SouthWater and Fire",
+      "effect": ""
+    }
+  ],
+  "fate": [],
+  "gallery": [
+    "Zhu Rong's Second Angel Fashion",
+    "Base Zhu Rong",
+    "Zhu Rong's Third Angel Fashion"
+  ],
+  "categories": []
+}

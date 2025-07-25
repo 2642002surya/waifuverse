@@ -1,0 +1,69 @@
+{
+  "name": "Nuit",
+  "potential": 3625,
+  "main_attribute": "INT",
+  "exclusive_relic": "N/A",
+  "temple_description": "Nuit was the Goddess of the Sky, the mother of the stars, the incarnation of the sky, and one of the nine pillar Goddesses of Heliopolis in ancient Egypt.\nNuit was also the God of Death, who provides air, water and food to the undead for their survival in the underworld. Therefore, Nuit was hailed as the Master of Everything.",
+  "active_skills": [
+    {
+      "name": "Ice world",
+      "damage": "150% M.DMG",
+      "targets": "4 enemies",
+      "effect": "40% chance to Freeze for 1 round (target cannot move)"
+    },
+    {
+      "name": "Meteorite",
+      "damage": "230% M.DMG",
+      "targets": "3 enemies",
+      "effect": "50% chance to remove 1 buff from enemy"
+    }
+  ],
+  "passive_skills": [
+    {
+      "name": "God of Sky",
+      "effect": "Max HP +4%, ACC +4%"
+    },
+    {
+      "name": "Mother of Stars",
+      "effect": "ATK +8%, CRIT +8%"
+    },
+    {
+      "name": "Sky Angel",
+      "effect": "ATK +12%, Max HP +12%"
+    }
+  ],
+  "fate": [
+    {
+      "angels": ["Poseidon", "Zhu Rong"],
+      "fate_name": "Power of Elements",
+      "effect": "ATK UP 20%"
+    },
+    {
+      "angels": ["Ra"],
+      "fate_name": "Ennead",
+      "effect": "HP UP 15%"
+    },
+    {
+      "angels": ["Phantasos"],
+      "fate_name": "Shining Stars",
+      "effect": "ATK UP 15%"
+    },
+    {
+      "angels": ["Frost Dragon", "Xmas Angel"],
+      "fate_name": "Ice world",
+      "effect": "HP UP 20%"
+    }
+  ],
+  "gallery": [
+    "Base Nuit",
+    "Nuit second fashion outfit",
+    "Nuit third fashion outfit",
+    "Pool Party - Nuit",
+    "Nuit new update art"
+  ],
+  "categories": [
+    "Mage",
+    "Characters",
+    "Blue"
+  ]
+}

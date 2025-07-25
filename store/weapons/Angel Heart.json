@@ -1,0 +1,34 @@
+{
+  "name": "Angel Heart",
+  "id": "AngelHeart",
+  "initial_quality": "SR",
+  "max_quality": "UR+5★",
+  "unlock_level": 60,
+  "awakening_available": true,
+  "exclusive_class": "Main Angel",
+  "exclusive_buff": {
+    "atk": 4000,
+    "atk_max": 15000
+  },
+  "static_attributes": {
+    "hp": 40000,
+    "hp_max": 150000
+  },
+  "awakening_skills": {
+    "30": {
+      "name": "Thunderstroke",
+      "description": "Deals an extra 100% DMG to 2 enemies"
+    },
+    "60": {
+      "name": "Battle Cry",
+      "description": "Make 1 more teammate enter [Excite] state"
+    },
+    "90": {
+      "name": "Twilight",
+      "description": "ATK+10%, CRIT+10% (Valid ONLY in Arena, Clash of Titans, Glory Arena, Clash of Guilds, Olympus Legend, Gods Twilight, and friends battle)"
+    }
+  },
+  "description": "In a despicable person's eyes, Angel Heart is a dangerous thing; For a kind-hearted person, Angel Heart can be a sharp sword in his hand and slay the despicable souls.",
+  "image": "AngelHeart.png",
+  "base_price": 10000
+}

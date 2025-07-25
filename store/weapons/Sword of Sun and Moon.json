@@ -1,0 +1,42 @@
+{
+  "name": "Sword of Sun and Moon",
+  "id": "SwordOfSunAndMoon",
+  "rarity": "SR",
+  "max_quality": "UR+5",
+  "exclusive_limit": {
+    "character": "Freyja",
+    "effect": "SPD +60 (225 at Max Quality)"
+  },
+  "awakening": true,
+  "static_attribute": {
+    "DMG Increase": "12% (45% at Max Quality)"
+  },
+  "introduction": "It is too dreamy, too fascinating, representing the ethereal in the starry sky, and the eternity of the universe. Energetic human being, be courage to use Sword of Sun and Moon to explore this dangerous universe.",
+  "enhance_awakening": {
+    "exclusive_limited": "Freyja",
+    "awaken_skills": [
+      {
+        "level": 30,
+        "name": "Shiny Pulse (Divine retribution)",
+        "description": "Double the coefficient of M.DMG for the 1st strike"
+      },
+      {
+        "level": 60,
+        "name": "Demon Retreat (Primal force)",
+        "description": "For every empty slot in line-up (as 7 enemies deployed), and the Max M.DMG is 1050%."
+      },
+      {
+        "level": 90,
+        "name": "Twilight",
+        "description": "ATK+10%, CRIT+10% (Valid ONLY in Arena, Clash of Titans, Glory Arena, Clash of Guilds, Olympus Legend, Gods Twilight, Conqueror of Legends, and friends battle)"
+      }
+    ]
+  },
+  "attributes": {
+    "SPD": 60,
+    "DMG Increase": 12
+  },
+  "unlock_level": 60,
+  "image": "SwordOfSunAndMoon.webp",
+  "base_price": 5000
+}

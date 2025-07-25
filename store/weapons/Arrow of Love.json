@@ -1,0 +1,34 @@
+{
+  "name": "Arrow of Love",
+  "id": "ArrowOfLove",
+  "rarity": "SR",
+  "max_rarity": "UR+5★",
+  "exclusive": {
+    "angel": "Cupid",
+    "bonus": "Increased Heal +20%",
+    "max_bonus": "75% at Max"
+  },
+  "awakening": true,
+  "static_attributes": {
+    "SPD": 50,
+    "SPD_max": 187.5
+  },
+  "awakening_skills": {
+    "30": {
+      "name": "Heart to Heart",
+      "description": "Grants all angels an additional shield by 100% of Cupid's Max ATK."
+    },
+    "60": {
+      "name": "Cupid Arrows",
+      "description": "Increase the coefficient of P.DMG by 50%, and Crit is guaranteed if enemies in any debuff situation."
+    },
+    "90": {
+      "name": "Twilight",
+      "description": "Speed+100, Crit DMG+20% (Valid ONLY in Arena, Clash of Titans, Glory Arena, Clash of Guilds, Olympus Legend, Gods Twilight, and friends battle)"
+    }
+  },
+  "introduction": "On this romantic night, send the blessings of love to your dear. Cupid is using arrows to weave a loving line that belongs only to this couple.",
+  "image": "ArrowOfLove.webp",
+  "base_price": 240,
+  "unlock_level": 60
+}

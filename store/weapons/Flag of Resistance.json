@@ -1,0 +1,19 @@
+{
+  "name": "Flag of Resistance",
+  "rarity": "SR",
+  "quality": "SR",
+  "max_quality": "UR+5",
+  "exclusive_class": "Warrior",
+  "exclusive_bonus": {
+    "hp_up_percent": 8,
+    "hp_up_max_percent": 30
+  },
+  "awakening": false,
+  "static_attribute": {
+    "dmg_reduction_percent": 10,
+    "dmg_reduction_max_percent": 37.5
+  },
+  "introduction": "Jeanne d'Arc met an angel under the big tree behind the village and received 'God's revelation'. She raised the rebellious war flag and led her generals to win the war. This flag followed her in the battle on the front lines of the war but was never broken. The oracles from flag often helped Jeanne d'Arc.",
+  "base_price": 4500,
+  "image": "FlagOfResistance.webp"
+}

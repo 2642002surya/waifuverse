@@ -1,0 +1,84 @@
+{
+  "name": "Loki",
+  "potential": {
+    "SSR+": 5290,
+    "UR": 6080,
+    "UR+": "TBD"
+  },
+  "main_attribute": "STR",
+  "exclusive_relic": "Divine Dice of Destiny",
+  "temple_description": "The deity of mischief and trickery in Norse mythology, \nas well as the god of fire. Originally a giant, \nLoki joined the Aesir due to a friendship with Odin. \nHowever, their cunning nature often led them to play \ntricks on other deities, earning both admiration \nand exclusion. Loki played a key role in triggering \nthe twilight of the gods.",
+  "active_skills": [
+    {
+      "name": "Phantom Spell (The Art of Invisibility)",
+      "rarity": "SSR+/UR",
+      "effect": "Deals 500% P.DMG to the enemy with the highest ATK \nand inflicts [Blind] for 2 rounds, reducing their ACC \nby 50% of Loki's ACC. \nLoki gains [Invisibility] (non-dispellable) for 2 rounds. \nIf Loki is in [Invisibility] and at least one ally is alive, \nthey are immune to single-target attacks."
+    },
+    {
+      "name": "Live or Die (Judgment of Fate)",
+      "rarity": "SSR+/UR",
+      "effect": "Loki rolls the Divine Dice of Destiny to determine \nthe fate of all enemies. Deals (dice result * 75%) P.DMG \nto all enemies and dispels all buffs from 1 random enemy."
+    }
+  ],
+  "passive_skills": [
+    {
+      "name": "Prudence (EX)",
+      "effect": "P.RES +10%, M.RES +10%"
+    },
+    {
+      "name": "Changes (EX)",
+      "effect": "ATK +15%, Leech +15%"
+    },
+    {
+      "name": "Bloodline of Giants (EX)",
+      "effect": "Max HP +20%, ACC +20%"
+    },
+    {
+      "name": "Divinity Oath (EX)",
+      "effect": "ATK +25%, Crit +25%"
+    }
+  ],
+  "exclusive_UR+_skill": [
+    {
+      "name": "Stay Tuned",
+      "effect": "[To be revealed]"
+    }
+  ],
+  "fate": [
+    {
+      "angels": ["Odin"],
+      "fate_name": "The Bond of Friendship",
+      "effect": "ATK UP +15%"
+    },
+    {
+      "angels": ["Heimdall"],
+      "fate_name": "Lifetime Enemy",
+      "effect": "ATK UP +15%"
+    },
+    {
+      "angels": ["Frost Dragon"],
+      "fate_name": "A Song of Ice and Fire",
+      "effect": "HP UP +15%"
+    },
+    {
+      "angels": ["Icarus", "Lucifer"],
+      "fate_name": "Wings of Darkness",
+      "effect": "HP UP +20%"
+    },
+    {
+      "angels": ["Odin", "Zeus", "Ra"],
+      "fate_name": "Supreme Theocracy",
+      "effect": "ATK UP +25%"
+    }
+  ],
+  "gallery": [
+    "Base Loki",
+    "Sacred Palace - Loki",
+    "UR Sweetheart Always - Loki"
+  ],
+  "categories": [
+    "Warrior",
+    "Red",
+    "Characters"
+  ]
+}

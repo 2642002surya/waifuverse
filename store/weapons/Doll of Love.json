@@ -1,0 +1,21 @@
+{
+  "name": "Doll of Love",
+  "filename": "DollOfLove",
+  "initial_quality": "SR",
+  "max_quality": "UR+5",
+  "exclusive_limit": {
+    "class": "Archer",
+    "bonus": "Crit probability +10%",
+    "max_bonus": "Crit probability +37.5%"
+  },
+  "awakening": false,
+  "static_attribute": {
+    "effect": "DMG to Mage +16%",
+    "max_effect": "DMG to Mage +60%"
+  },
+  "unlock_level": 60,
+  "base_price": 15000,
+  "description": "Although it is difficult for Izanami to have a relationship with the Amaterasu, she had an incomparable desire of it. This feeling is watered on the Amaterasu's doll, floating among the plants and trees of the world.",
+  "enhance_awakening": null,
+  "image": "store/weapons/DollOfLove.png"
+}

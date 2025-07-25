@@ -1,0 +1,77 @@
+{
+  "name": "Valkyrie",
+  "potential": 4575,
+  "main_attribute": "STR",
+  "exclusive_relic": "Valhalla",
+  "temple_description": "The female warriors in Norse mythology who are responsible for the tasks given by Odin. As the guides of heroes who died on the battlefield, they bring the dead into Valhalla, the Hall of Valor.\nThe most famous of them is Brunhild, the daughter of Odin, and her lover is the famous Nordic hero, Ziegrud.",
+  "active_skills": [
+    {
+      "name": "Light Spear",
+      "damage": "200% P.DMG",
+      "targets": "6 enemies",
+      "effect": "25% chance to steal 1 buff from enemy"
+    },
+    {
+      "name": "Heroic Stab",
+      "damage": "280% P.DMG (600% if target HP < 30%)",
+      "targets": "3 enemies with lowest HP %",
+      "effect": "Deals bonus damage if enemy HP is below 30%"
+    }
+  ],
+  "passive_skills": [
+    {
+      "name": "Soul Reaper",
+      "effect": "ATK +5%, CRIT +5%"
+    },
+    {
+      "name": "Valkyrie",
+      "effect": "Max HP +10%, Leech +5%"
+    },
+    {
+      "name": "Angel of War",
+      "effect": "ATK +15%, DEF +15%"
+    },
+    {
+      "name": "Belldandy",
+      "effect": "Max HP +20%, DEF +20%"
+    }
+  ],
+  "fate": [
+    {
+      "angels": ["Idun", "Odin"],
+      "fate_name": "Ragnarok Witness",
+      "effect": "HP UP 20%"
+    },
+    {
+      "angels": ["Gaia"],
+      "fate_name": "Aurora",
+      "effect": "ATK UP 15%"
+    },
+    {
+      "angels": ["Icarus"],
+      "fate_name": "Live to Die",
+      "effect": "HP UP 15%"
+    },
+    {
+      "angels": ["Heimdall"],
+      "fate_name": "Pure Power",
+      "effect": "HP UP 15%"
+    },
+    {
+      "angels": ["Erebus", "Hades", "Heimdall"],
+      "fate_name": "Immortal God",
+      "effect": "HP UP 25%"
+    }
+  ],
+  "gallery": [
+    "Base Valkyrie",
+    "Valkyrie Second fashion outfit",
+    "Valkyrie Third fashion outfit",
+    "Pool Party - Valkyrie"
+  ],
+  "categories": [
+    "Warrior",
+    "Characters",
+    "Red"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Dead Blond Hair",
+  "id": "DeadBlondHair",
+  "initial_quality": "R",
+  "max_quality": "SSR+",
+  "awakening": false,
+  "exclusive_limit": "N/A",
+  "unlock_level": 60,
+  "attributes": {
+    "static": {
+      "DMG Reduction": "3.7%"
+    },
+    "max": {
+      "DMG Reduction": "?"
+    }
+  },
+  "description": "It is dazzling, like golden wheat in the ground. Even if the gold thread is now woven into such an eternal laurel, there is no chance to return to that summer.",
+  "image": "DeadBlondHair.png",
+  "base_price": 100,
+  "category": "relic"
+}

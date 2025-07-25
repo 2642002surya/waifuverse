@@ -1,0 +1,58 @@
+{
+  "name": "Medusa",
+  "potential": 3625,
+  "main_attribute": "STR",
+  "exclusive_relic": "N/A",
+  "temple_description": "Medusa, also called Gorgo, was one of the three monstrous Gorgons, generally described as winged human females with living venomous snakes in place of hair. Those who gazed into her eyes would turn to stone.",
+  "active_skills": [
+    {
+      "name": "Snake Hair",
+      "damage": "180% P.DMG + 20% True DMG",
+      "targets": "3 enemies in back row",
+      "effect": ""
+    },
+    {
+      "name": "Peterifying Gaze",
+      "damage": "380% P.DMG",
+      "targets": "enemy with highest ATK",
+      "effect": "stun enemy for 1 round"
+    }
+  ],
+  "passive_skills": [
+    {
+      "name": "Body of a Banshee",
+      "effect": "Max HP +5%, Leech +4%, DEF +9%"
+    },
+    {
+      "name": "Lady of Dominion",
+      "effect": "ATK +10%"
+    },
+    {
+      "name": "Snake Eye",
+      "effect": "ATK +15%"
+    }
+  ],
+  "fate": [
+    {
+      "angels": ["Siren", "Pandora"],
+      "fate_name": "Origin of Degeneration",
+      "effect": "HP UP 20%"
+    },
+    {
+      "angels": ["Nemesis"],
+      "fate_name": "Power of Time",
+      "effect": "ATK UP 15%"
+    },
+    {
+      "angels": ["Zhu Rong"],
+      "fate_name": "Power of Truth",
+      "effect": "HP UP 15%"
+    }
+  ],
+  "gallery": [
+    "Base Medusa",
+    "Medusa third fashion suit",
+    "Swimsuit Party"
+  ],
+  "categories": []
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Destiny Wheel",
+  "rarity": "SR",
+  "max_quality": "UR+5",
+  "exclusive_limit": {
+    "character": "Icarus",
+    "effect": "DMG Increase +12% (45% when Max)"
+  },
+  "awakening": true,
+  "static_attribute": {
+    "atk_up": "12% (45% when Max)"
+  },
+  "introduction": "The destiny wheel can never stop spinning. Destiny is more fascinating because of its ups and downs. Because of the uncertainty, it is worth the challenge. It finally realize that the process of chasing destiny is far more interesting than the result.",
+  "enhance_awakening": {
+    "exclusive_limited": "Icarus",
+    "skills": [
+      {
+        "level": 30,
+        "name": "Holy Wing (Newborn Feather)",
+        "description": "If the target's HP is higher than 80%, increase the CRIT by 50%"
+      },
+      {
+        "level": 60,
+        "name": "Chain of light (Heart-locking Chain)",
+        "description": "If the target's HP is lower than 30%, increase the CRIT by 50%"
+      },
+      {
+        "level": 90,
+        "name": "Twilight",
+        "description": "ATK+10%, Crit DMG+20% (Valid ONLY in Arena, Clash of Titans, Glory Arena, Clash of Guilds, Olympus Legend, Gods Twilight, Conqueror of Legends, and friends battle)"
+      }
+    ]
+  },
+  "unlock_level": 60,
+  "image": "DestinyWheel.webp",
+  "base_price": 3500
+}

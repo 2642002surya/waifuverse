@@ -1,0 +1,78 @@
+{
+  "name": "Gemini",
+  "potential": {
+    "SSR+": 5150,
+    "UR": 5950,
+    "UR+": 7000
+  },
+  "main_attribute": "INT",
+  "exclusive_relic": "Plane Lens",
+  "temple_description": "Gemini is a special goddess transformed from one of the zodiac constellations. \nOriginally lacking divine power, she was granted deification for her valor in \nendless wars. Both black and white sides of Gemini possess powerful and \ncontrasting skills. The white embodies order, while the black unleashes chaos. \nBoth personalities are extreme and changeable.",
+  "active_skills": [
+    {
+      "name": "Phantom Twins (Twin's Embrace)",
+      "rarity": "SSR+/UR",
+      "effect": "If Gemini's HP is above 50%, releases [Outward], dealing 200% M.DMG that \nignores all M.RES and shields to all enemies. \nIf Gemini's HP is below 50%, releases [Inward], dealing 150% M.DMG to \nall enemies, and 100% of the damage dealt is converted into HP."
+    },
+    {
+      "name": "Divergent Fates (Intertwined Fates)",
+      "rarity": "SSR+/UR",
+      "effect": "Attacks the enemy with the highest ATK, causing 500% M.DMG. \n- If Gemini's ATK is higher than the enemy's, triggers [Yang], dealing an \n  additional 500% M.DMG that ignores shields. \n- If Gemini's ATK is lower, triggers [Yin], applying [Weaken] for 1 round, \n  reducing the enemy's ATK by the same amount as Gemini's ATK. \n  If [Weaken] fails, deals an extra 250% M.DMG. \n  (Won’t trigger additional damage if the enemy dies.)"
+    }
+  ],
+  "passive_skills": [
+    {
+      "name": "Similarities and Differences",
+      "effect": "ATK +10%, HP +10%"
+    },
+    {
+      "name": "Good and Evil",
+      "effect": "P.RES +15%, M.RES +15%"
+    },
+    {
+      "name": "Void and Substance",
+      "effect": "DEF +25%, ATK +25%"
+    },
+    {
+      "name": "Light and Shadow",
+      "effect": "ATK +25%, Crit DMG +30%"
+    }
+  ],
+  "exclusive_ur+_skill": {
+    "name": "Stellar Twin",
+    "effect": "When attacking a shielded target, deals True DMG equal to 25% of her ATK \nthat ignores shields. 50% of the DMG dealt is converted into a shield for \n2 rounds. \nIf Gemini starts in the main lineup, she gains [Bright Light] for 2 rounds. \nOtherwise, when entering combat, she gains [Dark Shadow] for 2 rounds.\n\n[Bright Light]: Increases Gemini's DMG by 40% and CRIT by 30%. \n[Dark Shadow]: Increases Gemini's Debuff RES by 50% and Damage Reduction by 20%."
+  },
+  "fate": [
+    {
+      "angels": ["Princess Kaguya", "Sim Cheong"],
+      "fate_name": "Gentle Breeze",
+      "effect": "HP UP +20%"
+    },
+    {
+      "angels": ["Frost Dragon"],
+      "fate_name": "Ice Mirror",
+      "effect": "ATK UP +15%"
+    },
+    {
+      "angels": ["Amaterasu"],
+      "fate_name": "Warm Beam",
+      "effect": "ATK UP +15%"
+    },
+    {
+      "angels": ["Freyja"],
+      "fate_name": "Drifting in Universe",
+      "effect": "ATK UP +15%"
+    }
+  ],
+  "gallery": [
+    "Base Gemini",
+    "Sacred Palace Gemini",
+    "UR Dimension Breaker - Gemini",
+    "UR+ Oceanic Reverie - Gemini"
+  ],
+  "categories": [
+    "Red",
+    "Mage",
+    "Characters"
+  ]
+}

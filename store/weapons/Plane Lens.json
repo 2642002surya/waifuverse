@@ -1,0 +1,40 @@
+{
+  "name": "Plane Lens",
+  "id": "PlaneLens",
+  "rarity": "SR",
+  "max_quality": "UR+5",
+  "quality": "SR",
+  "exclusive_limit": {
+    "class": "Gemini",
+    "effect": "ATK UP +12%",
+    "max_effect": "45%"
+  },
+  "awakening": true,
+  "static_attribute": {
+    "name": "DMG Reduction",
+    "base_value": 10,
+    "max_value": 37.5,
+    "unit": "%"
+  },
+  "introduction": "Seeing countless different futures, joy, anger, sorrow, and joy alternate in various parallel worlds. Gemini is always observing silently, constantly searching for the mystery of the universe and the ultimate answer hidden among us.",
+  "awakening_skills": [
+    {
+      "level": 30,
+      "skill_name": "Phantom Twins (Twin's Embrace)",
+      "description": "Attacks the shield enemy again, but the DMG dealt will not ignore the target's shield and M.RES."
+    },
+    {
+      "level": 60,
+      "skill_name": "Divergent Fates (Intertwined Fates)",
+      "description": "Additional DMG will be triggered if the enemy is killed."
+    },
+    {
+      "level": 90,
+      "skill_name": "Twilight",
+      "description": "ATK+10%, CRIT+10% (Valid ONLY in Arena, Clash of Titans, Glory Arena, Clash of Guilds, Olympus Legend, Gods Twilight, Conqueror of Legends, and friends battle)."
+    }
+  ],
+  "unlock_level": 60,
+  "image": "PlaneLens.webp",
+  "base_price": 3500
+}

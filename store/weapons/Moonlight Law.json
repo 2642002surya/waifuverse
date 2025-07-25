@@ -1,0 +1,17 @@
+{
+  "name": "Moonlight Law",
+  "id": "moonlight_law",
+  "initial_quality": "R",
+  "max_quality": "SSR+",
+  "exclusive_limit": {
+    "class": "Archer",
+    "bonus": "Effect ACC +3.7%"
+  },
+  "awakening": false,
+  "attributes": {
+    "SPD": 6
+  },
+  "introduction": "Light can scribble through the night sky, and light can shine straight into people's hearts. But light will be absorbed by black hole and it also follows Nyx's Moon Night Law.",
+  "image": "Moonlight Law.png",
+  "base_price": 480
+}

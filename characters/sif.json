@@ -1,0 +1,50 @@
+{
+  "name": "Sif",
+  "potential": 2675,
+  "main_attribute": "STR",
+  "exclusive_relic": "N/A",
+  "temple_description": "Sif was the god of land and harvest in Norse mythology and the personification of harvest grains. She had beautiful blonde hair, which hangs from her head to her toes. People described her blonde hair as a symbol of golden wheat or the gold buried in the ground.\nBecause of her outstanding beauty, she is considered one of most beautiful among the Norse gods, second only to Freyja.",
+  "active_skills": [
+    {
+      "name": "Mesmerizing Blonde",
+      "damage": "200% P.DMG",
+      "targets": "1 enemy",
+      "effect": "Enters [Excite] state, increases self DEF by 50% and self ATK by 25% for 3 rounds"
+    },
+    {
+      "name": "Thunder Spear",
+      "damage": "200% P.DMG",
+      "targets": "2 enemies with highest HP percentage",
+      "effect": "60% chance to inflict [Sunder Armor], decreasing enemies' DEF by 60% for 2 rounds"
+    }
+  ],
+  "passive_skills": [
+    {
+      "name": "Angel of Harvest",
+      "effect": "Max HP +4%"
+    },
+    {
+      "name": "Armed to Teeth",
+      "effect": "ATK +8%"
+    }
+  ],
+  "fate": [
+    {
+      "angels": ["Muse"],
+      "fate_name": "Beauty and Dream",
+      "effect": "ATK UP 10%"
+    },
+    {
+      "angels": ["Apep"],
+      "fate_name": "Fatal Beauty",
+      "effect": "HP UP 10%"
+    }
+  ],
+  "gallery": [
+    "Base Sif",
+    "Sif second outfit",
+    "Base third outfit",
+    "Swimsuit Party - Sif"
+  ],
+  "categories": []
+}

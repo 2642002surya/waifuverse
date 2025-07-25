@@ -1,0 +1,21 @@
+{
+  "name": "Eight Trigrams",
+  "rarity": "SR",
+  "quality": "SR",
+  "max_quality": "UR+5",
+  "exclusive_limit": {
+    "class": "Mage",
+    "effect": "ACC +12%",
+    "max_effect": "ACC +45%"
+  },
+  "awakening": false,
+  "static_attribute": {
+    "SPD": 20,
+    "max_SPD": 75
+  },
+  "introduction": "Anciently, when Bao-xi had come to the rule of all under heaven, looking up, he contemplated the brilliant forms exhibited in the sky, and looking down he surveyed the patterns shown on the earth. On this he devised the eight trigrams, to show fully the attributes of the spirit-like and intelligent (operations working secretly), and to classify the qualities of the myriads of things.",
+  "enhance_awakening": "N/A",
+  "unlock_level": 60,
+  "image": "EightTrigrams.webp",
+  "base_price": 4500
+}

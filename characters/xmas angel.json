@@ -1,0 +1,62 @@
+{
+  "name": "Xmas Angel",
+  "potential": 5400,
+  "main_attribute": "AGI",
+  "exclusive_relic": "Surprise Wreath",
+  "temple_description": "Who says only an older man with white beard would appear on Christmas Eve? Look at her. The passionate, beautiful, and everyone’s favorite Xmas Angel! On that peaceful night, she drives the Christmas Reindeer in the snowy sky, lending support to people in need. Remember to check your pockets when she leaves.\nYou will be amazed to see how many gifts she managed to stuff with that little space.",
+  "active_skills": [
+    {
+      "name": "Frozen Snow",
+      "damage": "160% P.DMG",
+      "targets": "6 enemies",
+      "effect": "Inflicts [Weaken], reducing ATK by 30%; guaranteed CRIT against enemies in [Freeze] state"
+    },
+    {
+      "name": "Arrow of Surprise",
+      "damage": "320% P.DMG",
+      "targets": "2 enemies",
+      "effect": "80% chance to [Freeze] debuffed enemies, disabling movement"
+    }
+  ],
+  "passive_skills": [
+    {
+      "name": "Movement",
+      "effect": "ATK +5%, CRIT +5%"
+    },
+    {
+      "name": "Present",
+      "effect": "Max HP +10%, DEF +10%"
+    },
+    {
+      "name": "Sleigh",
+      "effect": "Leech +6%, Crit DMG +45%"
+    },
+    {
+      "name": "Reindeer",
+      "effect": "ATK +28%"
+    }
+  ],
+  "fate": [
+    {
+      "angels": ["Cupid"],
+      "fate_name": "Love Gift",
+      "effect": "ATK UP 15%"
+    },
+    {
+      "angels": ["Frost Dragon", "Nuit"],
+      "fate_name": "Ice World",
+      "effect": "HP UP 20%"
+    }
+  ],
+  "gallery": [
+    "Base Xmas Angel",
+    "Xmas Angel second fashion outfit",
+    "Xmas Angel third fashion outfit",
+    "UR Surprise Party - Xmas Angel"
+  ],
+  "categories": [
+    "Archer",
+    "Characters",
+    "Red"
+  ]
+}

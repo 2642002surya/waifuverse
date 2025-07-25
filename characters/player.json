@@ -1,0 +1,92 @@
+{
+  "name": "Player",
+  "potential": 3750,
+  "main_attribute": "STR",
+  "exclusive_relic": "Angel Heart, Angel Blade",
+  "temple_description": "The angel represents the player themselves. The main angel's growth will follow the teammates' growth. Players believe righteousness still exists in this chaotic world.",
+  "active_skills": [
+    {
+      "name": "Thunderstroke",
+      "damage": "600% P.DMG",
+      "targets": "enemy with the lowest HP",
+      "effect": "Inflicts [Sunder Armor], reducing defense by 80% for 4 rounds. If the enemy is killed, deals additional 100% P.DMG to all enemies and inflicts them with [Sunder Armor]."
+    },
+    {
+      "name": "Battle Cry",
+      "damage": "Buff",
+      "targets": "3 allied angels",
+      "effect": "Grants [Excite] state, increasing DMG and DEF by 60%, Crit by 40%, and restores HP equal to 90% of player's ATK for 3 rounds."
+    }
+  ],
+  "passive_skills": [
+    {
+      "name": "Oriental Beauty",
+      "effect": "HP +25%"
+    },
+    {
+      "name": "Bright and Eternal",
+      "effect": "HP +30000, ATK +25%, ATK +3000"
+    },
+    {
+      "name": "Snowy Soul",
+      "effect": "P.RES +25%, M.RES +25%"
+    },
+    {
+      "name": "Ice Shock",
+      "effect": "DEF +20%, Leech +10%"
+    }
+  ],
+  "exclusive_ur_plus_skills": [
+    {
+      "name": "Divine Fury",
+      "effect": "Every odd-numbered round, randomly attacks an enemy 3 times with True DMG equal to 100% of ATK and dispels one buff per hit."
+    },
+    {
+      "name": "Divine Aura",
+      "effect": "At battle start, all allies recover HP equal to 100% of player's current HP. Excess healing (10%) is converted to a shield."
+    },
+    {
+      "name": "Divine Vessel",
+      "effect": "At battle start, grants [Main character Halo] (undispellable), increasing all stats by 5% of the sum of allies' corresponding stats."
+    }
+  ],
+  "fate": [
+    {
+      "angels": ["Gabriel", "Raphael"],
+      "fate_name": "Angel Guardian",
+      "effect": "Max HP +2000"
+    },
+    {
+      "angels": ["Nike"],
+      "fate_name": "Victory Heart",
+      "effect": "ATK UP 15%"
+    },
+    {
+      "angels": ["Princess Bari"],
+      "fate_name": "King's Outset",
+      "effect": "HP UP 20%"
+    },
+    {
+      "angels": ["Odin"],
+      "fate_name": "God's Inheritance",
+      "effect": "ATK UP 25%"
+    },
+    {
+      "angels": ["Icarus"],
+      "fate_name": "Wings of Indomitability",
+      "effect": "HP UP 30%"
+    }
+  ],
+  "gallery": [
+    "Base Player",
+    "Swimsuit Player",
+    "Player Sacred Palace",
+    "UR Player",
+    "UR+ Player"
+  ],
+  "categories": [
+    "Warrior",
+    "Characters",
+    "Main Character"
+  ]
+}

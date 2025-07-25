@@ -1,0 +1,20 @@
+{
+  "name": "Merciless",
+  "initial_quality": "SR",
+  "max_quality": "UR+5",
+  "exclusive_limit": {
+    "class": "Archer",
+    "effect": "EVA probability +10%",
+    "max_effect": "37.5%"
+  },
+  "awakening": false,
+  "static_attribute": {
+    "description": "DMG to Mage +16%",
+    "max": "60%"
+  },
+  "unlock_level": 60,
+  "base_price": 600,
+  "introduction": "Sins turn into silk threads and gradually wrap around you. You cannot breathe. Your body and soul will die unless the silks are cut through by Nemesis. Even in her merciless justice, death is inevitable as she cuts through the silks, down into your very soul.",
+  "enhance_awakening": null,
+  "image": "merciless.webp"
+}

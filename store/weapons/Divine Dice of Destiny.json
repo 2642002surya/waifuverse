@@ -1,0 +1,36 @@
+{
+  "name": "Divine Dice of Destiny",
+  "rarity": "SR",
+  "max_quality": "UR+5",
+  "exclusive_limit": {
+    "character": "Loki",
+    "effect": "Debuff RES +8%",
+    "max_effect": "Debuff RES +30%"
+  },
+  "awakening": true,
+  "static_attributes": {
+    "ATK_UP": "12%",
+    "max_ATK_UP": "45%"
+  },
+  "introduction": "The forbidden artifact of the Asa Divine Realm, which is said to be powerful enough to change the fate of deities. Whether it is survival, or destruction, everything is hidden in this divine dice.",
+  "awakening_skills": [
+    {
+      "level": 30,
+      "name": "Phantom Spell (The Art of Invisibility)",
+      "description": "Increase the coefficient of P.DMG by 50%, additionally increase hit probability of [Blind] by 30%"
+    },
+    {
+      "level": 60,
+      "name": "Live or Die (Judgment of Fate)",
+      "description": "Increase the probability of rolling big numbers of the dice"
+    },
+    {
+      "level": 90,
+      "name": "Twilight",
+      "description": "ATK+10%, Speed+100 (Valid ONLY in Arena, Clash of Titans, Glory Arena, Clash of Guilds, Olympus Legend, Gods Twilight, Conqueror of Legends, and friends battle)"
+    }
+  ],
+  "unlock_level": 60,
+  "base_price": 4000,
+  "image": "DivineDiceOfDestiny.webp"
+}

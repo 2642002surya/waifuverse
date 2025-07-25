@@ -1,0 +1,51 @@
+{
+  "name": "Gabriel",
+  "potential": {
+    "SSR": 2600
+  },
+  "main_attribute": "AGI",
+  "exclusive_relic": "N/A",
+  "temple_description": "Gabriel is a distinguished and noble Archangel responsible for delivering messages from God. \nShe is also known as the Angel of Death, as well as the Angel of Fire and Thunder. \nAmong the Angelic Host, she holds the highest rank—Seraph. \nAccording to legend, she was the one who sounded the trumpet of the Last Judgment, making her a symbol of wisdom.",
+  "active_skills": [
+    {
+      "name": "God's Light",
+      "rarity": "SSR",
+      "damage": "140% P.DMG",
+      "target": "3 enemies in the front row"
+    },
+    {
+      "name": "Hellfire",
+      "rarity": "SSR",
+      "damage": "200% P.DMG",
+      "target": "1 enemy",
+      "effect": "Attacks again if the attack crits, up to a maximum of 3 attacks."
+    }
+  ],
+  "passive_skills": [
+    {
+      "name": "Cherub",
+      "effect": "ATK +3%, CRIT +3%"
+    }
+  ],
+  "fate": [
+    {
+      "angels": ["Player", "Raphael"],
+      "fate_name": "Angel Guardian",
+      "effect": "Max HP +2000"
+    },
+    {
+      "angels": ["Tsukuyomi"],
+      "fate_name": "Novice Village",
+      "effect": "Max HP +1000"
+    }
+  ],
+  "gallery": [
+    "Base Gabriel",
+    "Third Fashion Suit - Gabriel"
+  ],
+  "categories": [
+    "Blue",
+    "Archer",
+    "Characters"
+  ]
+}

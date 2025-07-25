@@ -1,0 +1,91 @@
+{
+  "name": "Ra",
+  "potential": 5150,
+  "main_attribute": "INT",
+  "exclusive_relic": "Scale of Truth",
+  "temple_description": "Ra was the Sun God in ancient Egyptian mythology and the head of the nine pillar gods of Heliopolis. She was the most important god in ancient Egypt. She created all the lives of ancient Egypt by reciting each real name. Her divine powers were extremely powerful and she is one of Apep's opponents.",
+  "active_skills": [
+    {
+      "name": "Eye of Ra",
+      "damage": "80% M.DMG",
+      "targets": "1 enemy",
+      "effect": "If the enemy is not killed, Ra attacks again (up to 8 times). If the enemy is killed within the first three hits, Ra enters [Frenzy] state and becomes immune to debuffs."
+    },
+    {
+      "name": "Solar Storm",
+      "damage": "200% M.DMG",
+      "targets": "6 enemies",
+      "effect": "50% chance to [Ignite] for 3 rounds. If [Ignite] is active, the targets are also stunned for 1 round."
+    }
+  ],
+  "passive_skills": [
+    {
+      "name": "Supreme Power",
+      "effect": "Max HP +10%, DEF +10%"
+    },
+    {
+      "name": "Ray of Light",
+      "effect": "ATK +15%, M.RES +15%"
+    },
+    {
+      "name": "Creator",
+      "effect": "Leech +10%, CRIT +20%"
+    },
+    {
+      "name": "God of Creation",
+      "effect": "ATK +25%, Crit DMG +25%"
+    }
+  ],
+  "exclusive_ur_plus_skills": [
+    {
+      "name": "Flare Reborn",
+      "effect": "If Ra is in the front row: +200 SPD and +50% True DMG. If in the back: +30% DMG."
+    }
+  ],
+  "fate": [
+    {
+      "angels": ["Nuit"],
+      "fate_name": "Ennead",
+      "effect": "HP UP 15%"
+    },
+    {
+      "angels": ["Amaterasu"],
+      "fate_name": "Blazing Sun",
+      "effect": "HP UP 15%"
+    },
+    {
+      "angels": ["Cupid", "Chaos", "Himiko"],
+      "fate_name": "Desert City",
+      "effect": "ATK UP 25%"
+    },
+    {
+      "angels": ["Icarus"],
+      "fate_name": "Sun's pick",
+      "effect": "ATK UP 15%"
+    },
+    {
+      "angels": ["Hera"],
+      "fate_name": "Top Throne",
+      "effect": "HP UP 15%"
+    },
+    {
+      "angels": ["Ember Dragon", "Odin"],
+      "fate_name": "Emberbringer",
+      "effect": "ATK UP 20%"
+    }
+  ],
+  "gallery": [
+    "Ra Second Fashion Outfit",
+    "Ra Third Fashion Outfit",
+    "Ra Fourth Fashion Outfit",
+    "Swimsuit Party",
+    "Sacred Palace - Ra",
+    "UR Sun God",
+    "UR+ Blazing Triumph - Ra"
+  ],
+  "categories": [
+    "Mage",
+    "Characters",
+    "Red"
+  ]
+}

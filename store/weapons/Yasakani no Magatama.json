@@ -1,0 +1,37 @@
+{
+  "name": "Yasakani no Magatama",
+  "id": "YMagatama",
+  "initial_quality": "SR",
+  "max_quality": "UR+5★",
+  "unlock_level": 60,
+  "awakening_available": true,
+  "exclusive": {
+    "character": "Amaterasu",
+    "effect": "Effect ACC +16%",
+    "max_effect": "Effect ACC +60%"
+  },
+  "attributes": {
+    "static": {
+      "SPD": 40,
+      "SPD_max": 150
+    }
+  },
+  "introduction": "Yasakani no Magatama can protect people from disasters and allow people to obtain divine blessings. Coordinates the growth of all things, represents the sun and the moon and is bestowed by Izanami.",
+  "awakening_skills": [
+    {
+      "level": 30,
+      "name": "Vibrating Jade Charm",
+      "description": "Increase the coefficient of P.DMG by 15%, enemies under the state of [Stun] reduce DEF by 40% for 1 round"
+    },
+    {
+      "level": 60,
+      "name": "Yata no Kagami",
+      "description": "Enemies under the state of [Ignite] will lose 4% of self Max HP for 4 rounds."
+    },
+    {
+      "level": 90,
+      "name": "Twilight",
+      "description": "Speed+100, Buff Hit Probability+10% (Valid ONLY in Arena, Clash of Titans, Glory Arena, Clash of Guilds, Olympus Legend, Gods Twilight, and friends battle)"
+    }
+  ]
+}

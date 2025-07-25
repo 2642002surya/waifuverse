@@ -1,0 +1,37 @@
+{
+  "name": "Ghost Blade",
+  "image": "GhostBlade.webp",
+  "initial_quality": "SR",
+  "max_quality": "UR+5★",
+  "unlock_level": 60,
+  "exclusive_to": {
+    "name": "Himiko",
+    "buff": "Crit DMG +24%",
+    "buff_max": "Crit DMG +90%"
+  },
+  "awakening_available": true,
+  "static_attributes": {
+    "ATK%": {
+      "min": 12,
+      "max": 45
+    }
+  },
+  "awakening_skills": [
+    {
+      "level": 30,
+      "name": "Soul Heaven Slash",
+      "description": "DMG dealt will not trigger DMG reflection."
+    },
+    {
+      "level": 60,
+      "name": "Mysterious Slash",
+      "description": "The chance to trigger mysterious power increases by 30%."
+    },
+    {
+      "level": 90,
+      "name": "Twilight",
+      "description": "ATK+10%, CRIT+10% (Valid ONLY in Arena, Clash of Titans, Glory Arena, Clash of Guilds, Olympus Legend, Gods Twilight, and friends battle)."
+    }
+  ],
+  "introduction": "Under the blue sky, there was a young girl practicing swordsmanship, sometimes absent-minded, and sometimes arrogant. Waving a few slashes towards the sky, split the confusion in happiness, but the girl's confusion is more than these."
+}

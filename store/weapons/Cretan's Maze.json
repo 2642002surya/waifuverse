@@ -1,0 +1,16 @@
+{
+  "name": "Cretan's Maze",
+  "id": "CretansMaze",
+  "initial_quality": "N",
+  "max_quality": "SR+",
+  "exclusive_limit": "N/A",
+  "awakening": false,
+  "static_attribute": {
+    "damage_to_archer": 4
+  },
+  "static_attribute_max": {
+    "damage_to_archer": 10
+  },
+  "introduction": "Daedalus built an unusually complex and chaotic maze. But no matter how complicated it is, it cannot be a cover for Milos.",
+  "enhance_awakening": "N/A"
+}

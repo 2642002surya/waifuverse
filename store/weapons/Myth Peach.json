@@ -1,0 +1,22 @@
+{
+  "name": "Myth Peach",
+  "rarity": "R",
+  "quality": "R",
+  "max_quality": "SSR+",
+  "exclusive_limit": {
+    "class": "Mage",
+    "effect": "Crit probability +3.7%"
+  },
+  "awakening": false,
+  "static_attributes": {
+    "DMG to Archer": 7.5
+  },
+  "static_attributes_max": {
+    "DMG to Archer": 24.0
+  },
+  "introduction": "The flowers and the fruits are small. Myth Peach were riped for three thousand years, when people ate them, they will become immortals and their body will be light; Myth Peach were riped for six thousand years, when people ate them will be soaring and living",
+  "enhance_awakening": "N/A",
+  "unlock_level": 60,
+  "image": "myth_peach.webp",
+  "base_price": 1800
+}

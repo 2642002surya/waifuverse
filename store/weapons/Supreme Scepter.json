@@ -1,0 +1,42 @@
+{
+  "name": "Supreme Scepter",
+  "rarity": "SR",
+  "max_quality": "UR+5",
+  "exclusive_limit": {
+    "character": "Hera",
+    "effect": "ATK Increase +12%",
+    "max_effect": "45%"
+  },
+  "awakening": true,
+  "static_attribute": {
+    "def": 12,
+    "max_def": 45
+  },
+  "introduction": "Do you want to have supreme rights? Do you want to be respected by Zeus? Hera will destroy you without batting an eye if your answer is yes.",
+  "awakening_skills": [
+    {
+      "level": 30,
+      "skill_icon": "song_of_war_icon.webp",
+      "description": "Song of war (Hero Hymn): 10% of Hera's Crit DMG and FOR will be added in [Encourage]"
+    },
+    {
+      "level": 60,
+      "skill_icon": "for_the_throne_icon.webp",
+      "description": "For the Throne (Supreme Glory): Increase the coefficient of Hera's M.DMG by 30%, and the DMG must be doubled."
+    },
+    {
+      "level": 90,
+      "skill_icon": "twilight_icon.webp",
+      "description": "Twilight: ATK+10%, DEF+10% (Valid ONLY in Arena, Clash of Titans, Glory Arena, Clash of Guilds, Olympus Legend, Gods Twilight, Conqueror of Legends, and friends battle)"
+    }
+  ],
+  "unlock_level": 60,
+  "base_price": 10000,
+  "image": "supreme_scepter.webp",
+  "attributes": {
+    "atk": 0,
+    "def": 12,
+    "crit": 0,
+    "speed": 0
+  }
+}

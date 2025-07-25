@@ -1,0 +1,19 @@
+{
+  "name": "Spirit Wrapper",
+  "filename": "spirit_wrapper.json",
+  "initial_quality": "R",
+  "max_quality": "SSR+",
+  "exclusive_limit": null,
+  "awakening": false,
+  "unlock_level": 60,
+  "image": "spirit_wrapper.png",
+  "base_price": 3000,
+  "static_attributes": {
+    "DMG to Mage": {
+      "base": 7.5,
+      "max": 24.0
+    }
+  },
+  "introduction": "The wrapper is sacred and pure. Geb used them to wrap the sinful souls. Buried under the earth, there is no way to escape forever.",
+  "enhance_awakening": null
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Petrified Magic Eye",
+  "id": "PetrifiedMagicEye",
+  "rarity": "SR",
+  "max_rarity": "UR+5",
+  "unlock_level": 60,
+  "awakening": false,
+  "exclusive_class": {
+    "Warrior": {
+      "effect": "True Damage Increase",
+      "base_value": 20,
+      "max_value": 75
+    }
+  },
+  "static_attributes": {
+    "DMG to Archer": {
+      "base_value": 16,
+      "max_value": 60
+    }
+  },
+  "introduction": "Through the beautiful eyes, I saw you and Medusa are in the journey. It is beautiful and pure. It likes and unattainable dream, but it makes you willing to pursue it until your body and soul slowly petrify.",
+  "image": "PetrifiedMagicEye.png",
+  "base_price": 1200
+}

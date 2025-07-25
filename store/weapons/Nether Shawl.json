@@ -1,0 +1,36 @@
+{
+  "name": "Nether Shawl",
+  "id": "NetherShawl",
+  "initial_quality": "SR",
+  "max_quality": "UR+5",
+  "exclusive_limit": {
+    "character": "Erebus",
+    "effect": "DMG Reflection +20%",
+    "effect_max": "DMG Reflection +75%"
+  },
+  "awakening": true,
+  "static_attribute": {
+    "description": "DMG to Archer +24%",
+    "max": "DMG to Archer +90%"
+  },
+  "introduction": "The nether god Erebus is the embodiment of eternal darkness, and she uses her Nether Shawl to block the world and the underworld. No trace of light can pass through the Nether Shawl to reach the territory of Erebus, she is staying in darkness forever.",
+  "awakening_skills": [
+    {
+      "level": 30,
+      "name": "Evernight",
+      "description": "Increase the coefficient of P.DMG to 3% when losing 1% self HP"
+    },
+    {
+      "level": 60,
+      "name": "Grudges of Hades",
+      "description": "Increase the coefficient of P.DMG by 70%"
+    },
+    {
+      "level": 90,
+      "name": "Twilight",
+      "description": "ATK+10%, HP+10% (Valid ONLY in Arena, Clash of Titans, Glory Arena, Clash of Guilds, Olympus Legend, Gods Twilight, and friends battle)"
+    }
+  ],
+  "image": "NetherShawl.webp",
+  "base_price": 800
+}

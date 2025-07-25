@@ -1,0 +1,89 @@
+{
+  "name": "Enmusubi",
+  "potential": {
+    "SSR": 4660,
+    "UR": 5460
+  },
+  "main_attribute": "INT",
+  "exclusive_relic": "Fate Umbrella",
+  "temple_description": "Enmusubi, the goddess of fate and love, weaves the threads of destiny. \nShe holds the power to bind or sever the fates of those she deems worthy. \nHer presence is like a gentle breeze, yet her influence shapes the course of history.",
+  "active_skills": [
+    {
+      "name": "Affection",
+      "rarity": "SSR/UR",
+      "effect": "Grants [Blessing] to 6 teammates with a 50% base probability. If the last-positioned angel receives a buff, all allies restore HP equal to 20% of Enmusubi’s MAX ATK.",
+      "blessing_effects": [
+        "SPD +50",
+        "CRIT +50%",
+        "Crit DMG +50%",
+        "RES +20%",
+        "DMG Reduction +20%"
+      ],
+      "duration": "2 rounds"
+    },
+    {
+      "name": "Dizzy",
+      "rarity": "SSR/UR",
+      "effect": "Inflicts [Confusion] on 6 enemies with a 50% base probability. If an enemy already has the same debuff, they suffer 75% P.DMG.",
+      "confusion_effects": [
+        "Pierce",
+        "Poisoned",
+        "Ignite",
+        "Leech",
+        "Weaken"
+      ],
+      "duration": "2 rounds"
+    }
+  ],
+  "passive_skills": [
+    {
+      "name": "Suddenly",
+      "effect": "DEF +6%, Max HP +6%"
+    },
+    {
+      "name": "Coincidence",
+      "effect": "M.RES +12%, P.RES +12%"
+    },
+    {
+      "name": "Accidental",
+      "effect": "ATK +18%, Increased Heal +30%"
+    },
+    {
+      "name": "Inevitable",
+      "effect": "Effect ACC +40%"
+    }
+  ],
+  "fate": [
+    {
+      "angels": ["Izu Dancer", "Izanami"],
+      "fate_name": "Brilliant Yamato",
+      "effect": "ATK UP 20%"
+    },
+    {
+      "angels": ["Amaterasu"],
+      "fate_name": "Order Controller",
+      "effect": "HP UP 15%"
+    },
+    {
+      "angels": ["Michael", "Icarus", "Hera"],
+      "fate_name": "Justice Sanctions",
+      "effect": "ATK UP 25%"
+    },
+    {
+      "angels": ["Michael"],
+      "fate_name": "Bright Link",
+      "effect": "ATK UP 15%"
+    }
+  ],
+  "gallery": [
+    "Base Enmusubi",
+    "Sacred Palace - Enmusubi",
+    "UR Fate Weaver",
+    "UR+ Eternal Bond - Enmusubi"
+  ],
+  "categories": [
+    "Blue",
+    "Support",
+    "Characters"
+  ]
+}

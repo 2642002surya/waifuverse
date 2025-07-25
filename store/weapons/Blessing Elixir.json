@@ -1,0 +1,27 @@
+{
+  "name": "Blessing Elixir",
+  "id": "BlessingElixir",
+  "rarity": "SR",
+  "max_quality": "UR+5",
+  "quality": "SR",
+  "exclusive_limit": {
+    "class": "Archer",
+    "effect": "DMG Increase +8%",
+    "max_effect": "30%"
+  },
+  "awakening": false,
+  "static_attribute": {
+    "type": "DMG to Mage",
+    "value": "+16%",
+    "max_value": "60%"
+  },
+  "introduction": "The baby in the swaddle was abandoned and life shouldn't have been so damaged. The magpie was flying to guard and the golden tortoise swam into the sea with the baby on its back. Buddha rescued her and handed it to Huazi for adoption. When this baby growed up. She will bring more healing to the creatures.",
+  "enhance_awakening": null,
+  "unlock_level": 60,
+  "base_price": 5000,
+  "attributes": {
+    "healing_power": 120,
+    "defense": 30
+  },
+  "image": "BlessingElixir.webp"
+}

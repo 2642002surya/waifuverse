@@ -1,0 +1,52 @@
+{
+  "name": "Apep",
+  "potential": 3025,
+  "main_attribute": "INT",
+  "exclusive_relic": "N/A",
+  "temple_description": "Apep was the god of ancient Egypt, the incarnation of destruction, chaos, and darkness. \nShe was the creator of eternal darkness and the most powerful opponent of the Sun god Ra. \nThe war between them never ceased, earning her the titles \"The Enemy of Ra\" and \"The King of Chaos.\"",
+  "active_skills": [
+    {
+      "name": "Fire Annihilation",
+      "damage": "150% M.DMG",
+      "targets": "Attacks 3 times randomly"
+    },
+    {
+      "name": "Flaming Meteor",
+      "damage": "180% M.DMG",
+      "targets": "3 enemies in front row",
+      "effect": "80% chance to inflict [Poison], causing enemy to lose 3% current HP for 3 rounds"
+    }
+  ],
+  "passive_skills": [
+    {
+      "name": "Fire God",
+      "effect": "ATK +4%"
+    },
+    {
+      "name": "Vulcan",
+      "effect": "Max HP +8%"
+    }
+  ],
+  "fate": [
+    {
+      "angels": ["Shennong"],
+      "fate_name": "Banishing of Chaos",
+      "effect": "ATK UP 15%"
+    },
+    {
+      "angels": ["Sif"],
+      "fate_name": "Fatal Beauty",
+      "effect": "HP UP 15%"
+    }
+  ],
+  "gallery": [
+    "Base Apep",
+    "Apep Second Fashion Outfit",
+    "Apep Third Fashion Outfit"
+  ],
+  "categories": [
+    "Mage",
+    "Characters",
+    "Purple"
+  ]
+}
