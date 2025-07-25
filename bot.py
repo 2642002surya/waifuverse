@@ -29,7 +29,7 @@ async def on_ready():
 async def init_db():
     await Tortoise.init(
         db_url=DATABASE_URL,
-        modules={"models": ["models.user", "models.affection", "models.cooldown", "models.relic"]}  # update these later
+        modules={"models": ["models"]}  # update these later
     )
     await Tortoise.generate_schemas()
     print("📦 Database initialized.")
