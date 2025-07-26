@@ -1,16 +1,17 @@
 import asyncio
 import os
+import threading
+from http.server import BaseHTTPRequestHandler, HTTPServer
 from discord.ext import commands
 from dotenv import load_dotenv
 import discord
-
 from tortoise import Tortoise
-import logging
-import threading
-from http.server import BaseHTTPRequestHandler, HTTPServer
 
 load_dotenv()
 
+# ----------------------------
+# Intents and Bot Definition
+# ----------------------------
 intents = discord.Intents.default()
 intents.messages = True
 intents.message_content = True
@@ -18,7 +19,9 @@ intents.guilds = True
 
 bot = commands.Bot(command_prefix="!", intents=intents)
 
-# Import all your cogs here
+# ----------------------------
+# Initial Extensions (Cogs)
+# ----------------------------
 initial_extensions = [
     "commands.admin",
     "commands.battle",
@@ -29,48 +32,24 @@ initial_extensions = [
 # ----------------------------
 # Database Initialization
 # ----------------------------
-
 async def init_db():
     await Tortoise.init(
         db_url=os.getenv("DATABASE_URL"),
-        modules={"models": ["models"]}
+        modules={"models": ["models"]},
     )
     await Tortoise.generate_schemas()
 
 # ----------------------------
-# Bot Events
+# Events
 # ----------------------------
-
 @bot.event
 async def on_ready():
-    print(f"Bot connected as {bot.user}")
+    print(f"✅ Bot connected as {bot.user}")
     await init_db()
 
 # ----------------------------
-# Load Cogs
+# Keep-Alive Webserver (Render)
 # ----------------------------
-
-for extension in initial_extensions:
-    try:
-        bot.load_extension(extension)
-        print(f"Loaded extension: {extension}")
-    except Exception as e:
-        print(f"Failed to load extension {extension}: {e}")
-
-# ----------------------------
-# Run Bot
-# ----------------------------
-
-async def main():
-    async with bot:
-        await bot.start(os.getenv("DISCORD_TOKEN"))
-
-asyncio.run(main())
-
-# ----------------------------
-# Render Web Service Keep-Alive
-# ----------------------------
-
 class KeepAliveHandler(BaseHTTPRequestHandler):
     def do_GET(self):
         self.send_response(200)
@@ -82,4 +61,20 @@ def run_keep_alive():
     server = HTTPServer(("0.0.0.0", port), KeepAliveHandler)
     server.serve_forever()
 
+# Start keep-alive thread
 threading.Thread(target=run_keep_alive, daemon=True).start()
+
+# ----------------------------
+# Main Entry
+# ----------------------------
+async def main():
+    # Load extensions (cogs)
+    for ext in initial_extensions:
+        await bot.load_extension(ext)
+
+    # Start the bot
+    async with bot:
+        await bot.start(os.getenv("DISCORD_TOKEN"))
+
+# Run the bot
+asyncio.run(main())
