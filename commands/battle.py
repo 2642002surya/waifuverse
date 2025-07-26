@@ -1,3 +1,4 @@
+# battle.py
 name = "battle"
 description = "Engage in battles with your waifus against others."
 
@@ -7,7 +8,7 @@ import traceback
 from datetime import datetime
 from discord.ext import commands
 
-from models import User, Character, Relic, BattleHistory  # Assumed Tortoise models
+from models import User, Character, Relic, BattleHistory  # Correct imports
 
 class Battle(commands.Cog):
     def __init__(self, bot):
@@ -27,7 +28,7 @@ class Battle(commands.Cog):
         filled = int((hp / max_hp) * total)
         return f"[{'█' * filled}{'.' * (total - filled)}] {int(hp)}/{int(max_hp)}"
 
-    async def get_best_Character (self, user: User):
+    async def get_best_waifu(self, user: User):
         waifus = await Character.filter(owner=user)
         if not waifus:
             return None
