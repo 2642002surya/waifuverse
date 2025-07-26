@@ -115,3 +115,16 @@ class WeaponTemplate(Model):
     stats = fields.JSONField()
     description = fields.TextField()
     image_path = fields.CharField(max_length=255, null=True)
+
+
+# ────────────────────────────────
+# ⚔️ WeapBattle History Template (Master Data)
+# ────────────────────────────────
+class BattleHistory(Model):
+    id = fields.IntField(pk=True)
+    user = fields.ForeignKeyField("models.User", related_name="battle_history")
+    waifu = fields.ForeignKeyField("models.Character", related_name="battles")
+    result = fields.CharField(max_length=20)  # e.g. "win", "loss", "draw"
+    damage_dealt = fields.IntField()
+    timestamp = fields.DatetimeField(auto_now_add=True)
+
