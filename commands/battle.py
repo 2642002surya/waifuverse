@@ -7,7 +7,7 @@ import traceback
 from datetime import datetime
 from discord.ext import commands
 
-from models import User, Waifu, Relic, BattleHistory  # Assumed Tortoise models
+from models import User, Character, Relic, BattleHistory  # Assumed Tortoise models
 
 class Battle(commands.Cog):
     def __init__(self, bot):
@@ -27,16 +27,16 @@ class Battle(commands.Cog):
         filled = int((hp / max_hp) * total)
         return f"[{'█' * filled}{'.' * (total - filled)}] {int(hp)}/{int(max_hp)}"
 
-    async def get_best_waifu(self, user: User):
-        waifus = await Waifu.filter(owner=user)
+    async def get_best_Character (self, user: User):
+        waifus = await Character.filter(owner=user)
         if not waifus:
             return None
         return max(waifus, key=lambda w: w.potential or 0)
 
     async def get_waifu_by_name(self, user: User, name: str):
-        return await Waifu.get_or_none(owner=user, name__iexact=name)
+        return await Character.get_or_none(owner=user, name__iexact=name)
 
-    async def award_xp(self, waifu: Waifu, amount: int):
+    async def award_xp(self, waifu: Character, amount: int):
         leveled_up = False
         waifu.exp += amount
         while waifu.exp >= waifu.level * 100 and waifu.level < 100:
@@ -78,7 +78,7 @@ class Battle(commands.Cog):
     async def battle(self, ctx, *, waifu_name=None):
         try:
             user = await User.get_or_none(discord_id=str(ctx.author.id)).prefetch_related("waifus", "relics")
-            if not user or not await Waifu.filter(owner=user).exists():
+            if not user or not await Character.filter(owner=user).exists():
                 await ctx.send("You need to summon a waifu first using `!summon`.")
                 return
 
@@ -89,7 +89,7 @@ class Battle(commands.Cog):
                     await ctx.send("Invalid opponent.")
                     return
                 opponent_user = await User.get_or_none(discord_id=str(mentioned.id))
-                if not opponent_user or not await Waifu.filter(owner=opponent_user).exists():
+                if not opponent_user or not await Character.filter(owner=opponent_user).exists():
                     await ctx.send("Opponent has no waifus.")
                     return
             else:
@@ -98,7 +98,7 @@ class Battle(commands.Cog):
                 opponent_user = random.choice(candidates) if candidates else None
 
             w1 = await self.get_waifu_by_name(user, waifu_name) if waifu_name else await self.get_best_waifu(user)
-            w2 = await self.get_best_waifu(opponent_user) if opponent_user else await Waifu.get_random_bot_waifu()
+            w2 = await self.get_best_waifu(opponent_user) if opponent_user else await Character.get_random_bot_waifu()
 
             if not w1 or not w2:
                 await ctx.send("❌ Could not load one of the waifus.")
